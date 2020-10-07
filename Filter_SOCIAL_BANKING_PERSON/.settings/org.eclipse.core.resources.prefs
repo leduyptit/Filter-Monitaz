@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//application/application/Application.java=UTF-8
+encoding//src/models/dictionary/Getlib_sentiment.java=UTF-8
+encoding//src/models/filtered/Task_multithread.java=UTF-8
+encoding//src/models/language_detect/language.java=UTF-8
+encoding//src/models/language_detect/test2.java=UTF-8
+encoding//src/models/object_service/Check_object.java=UTF-8
+encoding//src/models/object_service/Check_sentiment.java=UTF-8
+encoding//src/models/object_service/Check_thetindung.java=UTF-8
+encoding//src/models/rule/Check_order.java=UTF-8
+encoding//src/models/rule/Check_question.java=UTF-8
+encoding//src/models/rule/Check_recom.java=UTF-8
+encoding//src/models/rule/Rule_congrat.java=UTF-8
+encoding//src/models/rule/Rule_spam.java=UTF-8
+encoding//src/support/remove_vietnamese/AccentRemover.java=UTF-8

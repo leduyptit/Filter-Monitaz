@@ -1,0 +1,1064 @@
+sub ﻿"""Đối với mình thời gian rất quý  mình luôn cảm thấy thời gian của mình là quá ngắn trong tất cả các công việc  tuy nhiên đối với mình có một việc luôn làm cho mình cảm thấy hài lòng đó là sử dụng dịch vụ internet banking của Techcombank  với tất cả các giao dịch cần mua bán của mình đều được thực hiện một cách nhanh chóng giúp mình có thêm thời gian cho công việc nhà  cho chồng con và cả cho bản thân nữa. Cám ơn Techcombank rất nhiều!""
+sub Trên đây là chia sẻ của bạn Hoa Ngoc Hoang trong đề tài thảo luận của tuần thứ 2. Techcombank rất cám ơn Hoa Ngoc Hoang đã tin tưởng sử dụng dịch vụ của Techcombank  hi vọng thời gian tới tiếp tục nhận được sự ủng hộ của bạn cũng như mọi người smile emoticon
+sub Với inernet banking của Techcombank  bạn không chỉ dễ dàng thực hiện chuyển khoản mà còn có thể thực hiện mọi giao dịch ngân hàng như mở tài khoản tiết kiệm  thanh toán hóa đơn dịch vụ  nạp tiền điện thoại trả trước… mà không phải mất thời gian tới quầy giao dịch. Cả nhà cùng liệt kê cho Techcombank được biết những dịch vụ internet banking mà cả nhà đang sử dụng nhé!"
+sub mong đến thứ 2 để đến với Tech đây ^^ yêu Tech 
+sub Mình suy đi tính lại ở cái Việt Nam này  những thằng vay cá nhân mà tren 10 tỷ toàn thằng ảo hết  mọi người cứ cẩn thận  ko phải cho vay nhiều là hay ho đâu
+sub Em sẽ làm MC chương trình trí tuệ Techcombank ná thứ 7 tại rạp Hồng Hà  cùng với bà Châu  chả biết hết người roài sao gọi mềnh lên…
+sub Chao ca nha. Bgio em moi biet TCB cung co group hoanh trang the nay. Nice to know all of you.
+sub "Hiệu quả của chương trình huy động vàng
+sub Khởi động vào tháng 10 năm ngoái  cho đến nay chưa ai đánh giá tính hiệu quả của chương trình này. Mình băn khoăn là chúng ta huy động vàng để làm j? Mình xin đưa ra 2 giả thiết. Thứ nhất huy động đương nhiên là để cho vay. Tuy nhiên trên thực tế chúng ta không cho vay vàng lượng nguyên chất  chúng ta chỉ cho khách hàng vay đầu tư trên sàn vàng. Mà cái này theo mình được biết thì khách hàng ký quỹ bằng tiền mặt hoặc vàng như là 70%  còn lại techcombank cho vay 30% nhưng cũng chỉ là số dư trên tài khoản. Vì thế việc huy động vàng hay không huy động không ảnh hưởng đến điều này. Giả thiết thứ 2 mình đưa ra là chúng ta launch cái chương trình này theo phong trào cho hoành tráng chứ chả tính toán j đến đầu vào đầu ra  tính hiệu quả j cả. Thực tế hiện nay cho thấy vàng mặt huy động được nằm nguyên tại kho  chờ đến ngày đáo hạn mang ra trả lại cho khách kèm theo 1 khoản tiền lãi. Ngoài ra chúng ta còn chi 1 số tiền lớn trong việc in ấn quản cáo  phát tờ rơi  đào tạo các giao dịch viên nhận biết vàng thật giả  rồi mua cân điện tử ... Không biết như vậy đã được gọi là lãng phí chưa nhỉ? Rất mong anh chị nào là cha đẻ của cái sản phẩm huy động vàng này chỉ giáo để anh em cùng hiểu nguyên nhân nó ra đời với. Xin đa tạ."
+sub Bên nhà Tech có tuyển mà em đến xong xuôi ngon nghẻ mà ko thấy có hồi âm. Lại 1 sự im lặng buồn =.=
+sub Bắt làm Báo cáo thực tập....ký rùi scan gửi cho hoành tráng...nay đã gần 2 tháng rùi mà ko có thư " cảm ơn " của TCB gì hết...Các bạn thì sao ta ?
+sub Không biết nên vui hay nên buồn.VPBank yêu cầu điểm các bạn nam từ 6.5  nữ từ 7.0 kì lạ vậy ta???????????
+sub "[Cuộc thi Viết về Ngân hàng tôi yêu] MS001: ACB - Ngân hàng trong trái tim tôi! của tác giả nguyenquyen281191
+sub “Mỗi ngày tôi chọn một niềm vui chọn những bông hoa chọn những nụ cười”  giai điệu nhẹ nhàng mà đầy ý nghĩa đó đã đọng lại trong lòng cô bé ấy một cảm xúc thật khó tả để rồi cũng chính giai điệu đó đã thúc đẩy cô đến được với thành công ngày hôm nay  để cô “chợt biết rằng vì sao tôi sống  vì đất nước cần một trái tim”.
+sub Sinh ra trong một gia đình tuy không khá giả
+sub nhưng luôn tràn ngập tiếng cười ở một làng quê nghèo khó   17 tuổi với ước mơ được làm bác sĩ khoa nội luôn ấp ủ từ ngày còn bé  cô gái đã học tập thật miệt mài để có thể ghi danh vào những trường Y danh giá của Việt Nam. Cô thần tượng hình ảnh áo blue trắng và những người bác sĩ tận tình cứu sống biết bao nhiêu mạng người. Thế nhưng cuối năm lớp 11 bố cô đã nhận ra sư khác biệt của con mình khi mỗi lần ngồi bên trái và nói chuyện với cô thì dường như cô không hề phản ứng gì cả  chỉ đến khi nói thật to cô mới nghe thấy. “Con bịt tai phải lại đi con”  cô ngoan ngoãn làm theo lời bố và chợt nhận ra rằng cô k còn nghe thấy gì cả. Hai bố con vội vàng lên bệnh viện tai mũi họng Trung ương và kết quả trả về thật bất ngờ “cháu bị suy giảm thị lực và hỏng màng nhĩ ở tai trái nên không có cách nào hồi phục được”. Thế giới xung quanh cô như sụp đổ vì làm bác sĩ khoa nội mà nghe kém thế thì sao có thể làm được  nói như lũ bạn hay đùa là “tim bệnh nhân đang đập mạnh mà lại bảo là tim đập yếu lắm”. Rồi người thân và bạn bè đều an ủi và động viên rằng chỉ nghe kém thôi chứ có phải là không nghe thấy đâu mà lo  hãy cố gắng lên. Và cô đã quyết định từ bỏ giấc mơ làm bác sĩ của mình bởi đó là một nghề liên quan đến tính mạng con người  cô không thể có lỗi với họ được.
+sub Và rồi cái bài hát mà cô tình cờ nghe được trên ti vi ấy đã khiến cô có được sự lựa chọn cho riêng mình  bài hát thật đúng với tâm trạng và hoàn cảnh của cô lúc bấy giờ  nó như một lời cổ vũ động viên cho cô vững bước hơn trên đường đời. Cô lao vào học tập với sự nỗ lực hết mình  và kì thi đại học năm ấy cô đã đỗ với điểm số rất cao để vào học một trường kinh tế danh giá  và ngành cô theo học là tài chính-ngân hàng đơn giản vì cô thích bài hát đó cô yêu cái “ngân hàng của mọi nhà” đó và cô thấy mình cần phải bước chân vào đó để tìm hiểu  để làm việc. Thế mà đã 3 năm trôi qua và cô ngày càng dần tới được mục tiêu của mình  cô say sưa tìm hiểu về nó và cô biết được rằng ngân hàng Á Châu là một trong những ngân hàng hàng đầu Việt Nam với rất nhiều giải thưởng cao quý  được bình chọn là ngân hàng tốt nhất Việt Nam năm 2011  ngân hàng có dịch vụ thanh toán vượt trội năm 2010  ngân hàng vững mạnh nhất Việt Nam năm 2010 và rất nhiều danh hiệu khác. 3 năm không phải là thời gian quá dài nhưng cô cũng đã nhận ra rằng sự lựa chọn của mình là đúng đắn. Ngay khi còn ngồi trên ghế giảng đường đại học cô đã được các thầy cô giới thiệu về một số ngân hàng lớn của VIệt Nam và cô luôn háo hức mỗi khi được các thầy cô nhắc tới ngân hàng Thương mại cổ phần Á Châu với sự phục vụ rất tận tình niềm nở và uy tín và câu nói “đó thực là một ngân hàng tốt một môi trường tốt mà các em nên tham gia” đã ngày càng củng cố thêm niềm tin và tình yêu ở nơi cô dành cho ngân hàng Á Châu. Cô tự hào vì mình là sinh viên trường đại học Kinh tế Quốc dân  ngôi trường hàng đầu về đào tạo chuyên ngành Kinh tế  cô đã học hỏi và tích lũy được rất nhiều kiến thức nền tảng đặc biệt là những kiến thức về ngân hàng và thị trường tài chính-ngành mà cô đang theo đuổi. Dẫu biết rằng cô cần phải cố gắng nhiều hơn nữa nhưng cô đang dần chạm tới được niềm mơ ước của mình.
+sub Cho tới tận bây giờ cô vẫn không thể tin được là mình có thể vượt qua được cú sốc lớn lao ấy để vững bước trong cuộc sống như lúc này và cô tin rằng mọi thứ như một cái duyên  nó đến để thử thách lòng người  như để định hướng cho cô một con đường khác tốt hơn. Phải chăng cô phải thầm cảm ơn cái khuyết điểm đó để cô có được một bước ngoặt lớn  rẽ sang một con đường khác tốt hơn. Cô thầm cảm ơn gia đình bè bạn đã luôn ủng hộ cô trên hành trình của mình và đặc biệt là cảm ơn ngân hàng Á Châu với bài hát làm lay động trái tim ấy nhờ có nó mà cô chợt nhận ra giá trị của mình  cô gặp được những người bạn mới  cuộc sống mới tuyệt vời như thế này. Và bây giờ cô có thể tự tin nói với mọi người rằng “Hãy ngồi bên phải tôi nhé!”. Mong một ngày không xa nữa tên cô sẽ chính thức có trong danh sách những nhân viên của ngân hàng Á Châu và cô tin là mình sẽ làm được.
+sub Chi tiết về bài viết: http://ub.com.vn/…/20621-Bai-du-thi-Ngan-hang-toi-Yeu-ACB-N…
+sub Like & Share để giúp tác giả có được giải thưởng lớn từ tình yêu lớn nhé!"
+sub Phong cách chuyên nghiệp - Nụ cười thân thiện
+sub "NGÂN HÀNG HY VỌNG!
+sub Ngân hàng Chính sách tuyệt vời 
+sub Mang bao mơ ước đổi đời người dân.
+sub Cán bộ tận tụy ân cần 
+sub Góp công  góp sức lui dần khó khăn.
+sub Người dân tiết kiệm  siêng năng 
+sub Cùng nhau sản xuất  làm ăn phát tài.
+sub Ngân hàng có một không hai 
+sub Đồng lòng  chung sức miệt mài vì dân.
+sub Lăk  ngày 24/09/2014
+sub Quang Trung Ngo"
+sub M da từng 4nam nhu vay nen thấu hiu va cam thong vo cung.huhu
+sub Đau lòng quá  thiên tai làm sao thu lãi đây  huống chi thu gốc.....?
+sub vừa nghe dân đồn ảnh của GP BANK Đông Đô không đc giải àh  có ai thông báo cho mình biết coi.Buồn quá
+sub đâu ra giải thích xem lý do vì sao mà Đông đô không được giải thế
+sub "tiền cũ và dính mực
+sub Vietcombank ATM toàn đưa tiền rách  cũ  dính mực...."
+sub "Agribank chi nhánh 6 - TPHCM: Thất thoát trên 1.000 tỉ đồng vì cho vay trái luật
+sub “Cho vay khi dự án chưa được cấp có thẩm quyền phê duyệt; tự ý cho vay vượt quyền phán quyết; cho mượn tài sản thế chấp không có bất kỳ biện pháp nào phòng ngừa rủi ro dẫn đến mất tài sản. Gây thiệt hại trên 1.027 tỉ đồng...” - đó là kết luận của cơ quan CSĐT về vụ án xảy ra tại Agribank chi nhánh 6 TP.Hồ Chí Minh và Cty dệt kim Đông Phương.
+sub Ngàn tỉ chui lỗ kim
+sub Vụ án với 11 bị can bị đề nghị truy tố với 5 tội danh: “Lạm dụng chức vụ quyền hạn chiếm đoạt tài sản”  “Lợi dụng chức vụ quyền hạn trong khi thi hành công vụ” “vi phạm quy định về cho vay ...”   ""lạm dụng tín nhiệm chiếm đoạt tài sản” và “lừa đảo chiếm đoạt tài sản” đáng chú ý nhất là hành vi làm trái dẫn đến thất thoát hơn 1.000 tỉ đồng tại Agribank chi nhánh 6 TPHCM.
+sub Vụ việc như sau: Cty Dệt kim Đông Phương (Tập đoàn Dệt - May VN) được Bộ Tài chính chấp thuận chuyển mục đích sử dụng 17.136m2 đất để lập dự án đầu tư xây dựng thương mại và dịch vụ cao tầng theo quy hoạch. Cty dệt kim Đông Phương ký hợp đồng với Cty BĐS Phương Nam để thành lập Cty liên doanh Đông Phương Phát với tỉ lệ góp vốn Cty Dệt kim Đông Phương góp 10%; Cty BĐS Phương Nam góp 90% vốn.
+sub Sau đó  Cty Phương Nam nhượng 80% số vốn góp của Cty Phương Nam cho Cty Bình Phát do ông Dương Thanh Cường làm TGĐ để cùng thực hiện dự án. Để có tiền thực hiện liên kết trên  Dương Thanh Cường đã trao đổi với Hồ Đăng Trung - GĐ Agribank chi nhánh 6 TPHCM - ngày 28.9.2007  Dương Thanh Cường chỉ đạo nhân viên Cty lập hồ sơ vay vốn và chỉ đạo ông Thái Cường (GĐ Cty Tấn Phát) ký hồ sơ gửi Agribank chi nhánh 6 để vay 170 tỉ.
+sub Khi Thái Cường nộp hồ sơ  Trung đã chỉ đạo Hồ Văn Long - Trưởng phòng tín dụng Nguyễn Hoàng Quốc Thụy - cán bộ tín dụng - thực hiện. Dù biết dự án chưa được phê duyệt  tài sản thế chấp là giấy chứng nhận tạm thời không đủ điều kiện thế chấp cho vay ... nhưng Trung vẫn ký duyệt cho Thái Cường vay 170 tỉ đồng.
+sub Sau đó  Dương Thanh Cường sử dụng pháp nhân Cty Thanh Phát lập dự án “khu biệt thự nhà vườn Thanh Phát”. Dù dự án chưa được phê duyệt đầu tư nhưng Trung vẫn ký cho Cty Thanh Phát vay 893 4 tỉ đồng. Trong khi đó  hợp đồng thế chấp tài sản đều ghi là “tài sản hình thành trong tương lai”. Chỉ bằng 2 hợp đồng  Trung và những cán bộ Agribank chi nhánh 6 đã gây thiệt hại 1.027 tỉ đồng.
+sub Cú lừa ngàn tỉ
+sub Để được vay 170 tỉ đồng  Cường chỉ đạo Thái Cường lập hồ sơ vay và thế chấp bằng quyền sử dụng đất tạm thời tại số 10 Âu Cơ và 44 An Dương Vương  TPHCM. Thế nhưng  sau khi lấy được tiền  Dương Thanh Cường lại chỉ đạo Thái Cường đến Agribank chi nhánh 6 mượn lại giấy chứng nhận với lý do “làm thủ tục chuyển quyền sử dụng”. Sau khi lấy được giấy chứng nhận  Dương Thanh Cường đã mang đến Ngân hàng TMCP Phương Nam (SouthernBank - PNB) thế chấp vay tiền  gán luôn giấy chứng nhận này cho Ngân hàng Phương Nam.
+sub Khi vay tiền mà chỉ có “tài sản hình thành trong tương lai”  Agribank chi nhánh 6 đã yêu cầu Dương Thanh Cường phải có tài sản thế chấp. Dương Thanh Cường đã tìm cách có được 23 GCNQSDĐ tại xã Phong Phú  huyện Bình Chánh để thế chấp tại Agribank chi nhánh 6. Sau khi thế chấp  Dương Thanh Cường “mượn lại” 23 giấy chứng nhận này để mang đến Ngân hàng TMCP Phương Nam thế chấp vay tiền. Với hành vi này  Dương Thanh Cường đã phạm 2 tội “Lạm dụng tín nhiệm chiếm đoạt tài sản” và “Lừa đảo chiếm đoạt tài sản” của Agribank chi nhánh 6 TPHCM trên 1.000 tỉ đồng.
+sub ""Ảnh minh họa""
+sub See Translation"
+sub Nhưng thông tin tôi được biết là NamA Bank xin nhập vào Eximbank và mất tên NamA Bank luôn. Tất cả mọi kế hoạch được thực hiện theo đúng luật pháp  NHNN sẽ ủng hộ
+sub Lỗ khủng!
+sub Hà Văn Thắm đã bị bắt!
+sub Vừa rút hết tiền trong tài khoản của EXIMBANK ra. Chúng nó giàu là nhờ tiền mồ hôi của chúng ta gửi vào. Nay dùng đồng tiền ấy làm những điều dơ bẩn " hớt tay trên " thì phải cho chúng biết thế nào là sức mạnh của khách hàng.
+sub "TIN TÀI CHÍNH - NGÂN HÀNG
+sub Bắt nhân viên Ngân hàng chiếm đoạt gần 1 5 tỉ đồng
+sub Ngày 28-7 Cơ quan CSĐT Công an tỉnh Bình Định bắt tạm giam 4 tháng đối với Nguyễn Thanh Tuấn (28 tuổi  nhân viên Ngân hàng Quốc tế - VIB  Chi nhánh TP Quy Nhơn).
+sub Trước đó  Tuấn đã bị khởi tố tội lừa đảo chiếm đoạt tài sản.
+sub Thông tin ban đầu cho biết từ tháng 6-2012  khi được giao nhiệm vụ phụ trách quản lý khách hàng của VIB Quy Nhơn  Nguyễn Thanh Tuấn sao chép thông tin của 35 khách hàng trên hệ thống dữ liệu rồi điền vào thư điện tử đề nghị mở thẻ tín dụng Master Card  sau đó cắt dán con dấu  chữ ký của giám đốc VIB Quy Nhơn đưa vào bản phê duyệt.
+sub Tuấn gửi những thư này cho Phòng Vận hành - tác nghiệp thẻ của VIB để làm thủ tục mở thẻ Master Card. Sau khi VIB gửi mã pin cho bộ phận quản lý khách hàng VIB Quy Nhơn  Tuấn đã sử dụng thẻ  số thẻ  mã pin nhận được điền vào biểu mẫu rồi đề nghị Phòng Vận hành - tác nghiệp thẻ kích hoạt tài khoản.
+sub Từ đó  Tuấn dùng số thẻ  mã pin của khách hàng rút toàn bộ hạn mức của 35 thẻ Master Card qua máy ATM của VIB Quy Nhơn và một số ngân hàng khác  chiếm đoạt tổng cộng gần 1 5 tỉ đồng.
+sub Giữa năm 2013  khi khách hàng của số thẻ trên không nộp tiền vào tài khoản để thanh toán tiền vay  VIB xác minh và phát hiện Tuấn là người làm giả thẻ rồi rút tiền. Sau đó  VIB sa thải Tuấn và chuyển hồ sơ cho cơ quan công an điều tra  xử lý."
+sub "TIN TÀI CHÍNH - NGÂN HÀNG
+sub Nợ xấu siêu khủng  Agribank bê bết bậc nhất nhóm ""ông lớn""
+sub Tại họp báo công bố kết quả kiểm toán năm 2013  ông Đào Văn Dũng – Vụ trưởng Vụ tổng hợp (Kiểm toán Nhà nước -KTNN) cho biết  trong số 3 NHTM Nhà nước mà KTNN thực hiện kiểm toán trong năm 2012 thì Ngân hàng Nông nghiệp & Phát triển nông thôn (Agribank) là ngân hàng “dính” nhiều sai phạm nhất.
+sub Ngân hàng này thường xuyên vi phạm tỷ lệ an toàn vốn hợp nhất  tỷ lệ khả năng chi trả ngay và tỷ lệ khả năng chi trả 7 ngày đối với VND.
+sub Nợ có khả năng mất vốn tại Agribank là 23.652 tỷ đồng  chiếm 59 23% tổng dư nợ xấu  bằng 89% vốn điều lệ.
+sub Như vậy  tổng nợ xấu của Agribank lên tới xấp xỉ 40.000 tỷ đồng  cao hơn vốn điều lệ của ngân hàng này khoảng 10.000 tỷ đồng.
+sub Tỷ lệ nợ xấu theo kết quả kiểm toán của Agribank đạt tỷ lệ tới 8 16%  tăng 34 43% so với cùng kỳ năm 2011. Thậm chí  tỷ lệ này còn cao hơn cả tỷ lệ nợ xấu toàn hệ thống ngân hàng theo thống kê của Cơ quan thanh tra giám sát Ngân hàng Nhà nước  chỉ là 7 8%.
+sub Tại Chi nhánh thành phố HCM  dư nợ của Công ty TNHH Bất động sản Diệp Bạch Dương của nữ đại gia Dương Thị Bạch Diệp đến 31/12/2012 là 3.700 tỷ đồng (gốc 2.967 7 tỷ đồng  lãi 732 3 tỷ đồng). Còn tại Chi nhánh Tân Bình  đến 30/6/2013  tổng dư nợ của nhóm khách hàng Đông Á là 200 5 tỷ đồng (gốc 148 1 tỷ đồng; lãi 52 4 tỷ đồng)  của nhóm khách hàng là cán bộ tín dụng là 24 2 tỷ đồng (nợ gốc 20 88 tỷ đồng  nợ lãi 3 36 tỷ đồng)..."
+sub "Du học sinh sau khi về nước cũng chẳng tìm được việc làm  tiếng Anh có khi còn không lưu loát  tốt nhất không nên du học?
+sub Du học không phải là tấm vé đảm bảo cho một công việc đáng mơ ước mà chính thái độ đúng đắn và khao khát học hỏi trong quá trình rèn luyện nơi xứ người mới là hành trang tốt nhất cho chặng đường dài sau khi tốt nghiệp. Đôi khi  thành quả của du học không thể thấy được trong ngắn hạn  và những bạn nghiêm túc với du học vẫn rất vất vả tìm việc khi về nước  nhưng nếu đủ kiên trì và quyết tâm  du học sẽ là trường đào tạo tốt nhất cả về chuyên môn  ngôn ngữ cũng như kỹ năng sống mà một khi nhìn lại bạn sẽ không phải hối hận về quyết định này"
+sub Không những kinh doanh hiệu quả  MB còn được đánh giá là ngân hàng chấp hành và tuân thủ tốt pháp luật  chính sách  quy định... Lãnh đạo Cơ quan thanh tra giám sát NHNN chia sẻ "Từ phía NHNN  chúng tôi chỉ mong ngân hàng nào cũng được như MB - kinh doanh an toàn hiệu quả  đồng thời vẫn đảm bảo tuân thủ  minh bạch".
+sub Bốn ngân hàng dính đạn vụ Huyền Như trong đó nặng nhất là ACB. Con số thiệt hại lớn như vậy không thể không nghĩ đến cơ chế quản lý của ngân hàng. Mà trong các thứ quản lý quản lý nhân sự là cốt cán nhất. Hàng năm các NH vẫn bày ra ma trận hàng đống loại test  phỏng vấn này nọ nhưng cửa chui  đút cũng ko ít. Và hậu quả trong đội ngũ cũng đầy rẫy những kẻ nguy cơ " xộ khám" ở mức độ cao.
+sub "Kiện ngân hàng đòi 5500 đồng.
+sub Cho rằng ngân hàng VCB cố tình nạp tiền có mệnh giá thấp vào máy ATM để khách phải rút nhiều lần  dẫn đến mất phí nhiều  ông Phạm Văn Quang (140/12 Lê Đức Thọ  P.6  Q.Gò Vấp  TP.HCM) đã gửi đơn đến tòa án khởi kiện để đòi lại số tiền chỉ... 5.500 đồng!
+sub Ý kiến của các luật sư cũng khác nhau.Chờ xem phán quyết thế nào."
+sub Nhân viên Agribank làm việc bất chấp thời tiết 
+sub sao 2 hôm nay mình ko truy cập được vào web của agribank nhờ? có ai cùng tình trạng này ko hay mỗi mình mình bị vậy? frown emoticon
+sub Chia sẻ của khách hàng khi trải nghiệm dịch vụ của Ngân hàng điện tử SHB! Cảm ơn khách hàng đã tin dùng và dành những lời khen cho ibanking của SHB ! Một ngày mưa ngập tràn...niềm vui! heart emoticon
+sub Thanks Ad Techcombank Việt Nam nhiều nhiều
+sub Phung Thi Kim Duyen: trùi ui  CSO bày sai cho em :(( bắt đền 
+sub Tôi là nhân viên của Cty CP TM Cát Linh. Ngày 25/1/2014 tôi đến TECHCOMBNK PGD Cẩm Phả để lấy tờ in sao kê tháng 10+11+13/2013. Bạn GDV có yêu cầu xuất trình giấy giới thiệu. Tôi không mang theo  sau đó tôi liên lạc lại với chủ tài khoảnCty CP TM Cát Linh  chủ tài khoản Cty CP TM Cát Linh có gọi điện thoại lại cho chị Thu - TECHCOMBNK PGD Cẩm Phả để xác nhận tôi đúng là nhân viên của Cty và yêu cầu ngân hàng tạo điều kiện giúp đỡ. Nhưng câu trả lời của chị Thu với khách hàng là không cho lấy tờ sao kê. Tôi thiết nghĩ để giữ bảo mật cho khách hàng là điều quan trọng. Nhưng trong trường hợp này thì nhân viên TECHCOMBNK PGD Cẩm Phả có cứng nhắc quá không  vô tình lại làm phật ý khách hàng. Bạn có tự hỏi tại sao lượng khách giao dịch tại PGD Cẩm Phả lại ít hơn các ngân hàng khác. Tại sao Cty Cát Linh giao dịch ngân hàng trong một năm khoảng 100 tỉ  nhưng số tiền giao dịch qua TECHCOMBNK PGD Cẩm Phả được bao nhiêu. Có phải là do thái độ làm việc cứng nhắc  chưa nhiệt tình  chưa biết lắng nghe và thông cảm với khách hàng. Bạn là người lãnh đạo thông thái  bạn hãy thử đóng vai một khách hàng đi giao dịch tại PGD Cẩm Phả của BIDV  VIETINBANK bạn sẽ học được nhiều điều để chỉ dạy cho nhân viên của bạn. Ko biết có ai đã gặp mấy nhân viên giao dịch mang cung cách làm việc của thời bao cấp này ko nhỉ? Hết thuốc chữa.
+sub Thanks Ad nhiều nha.
+sub Câu hỏi thi ngân hàng đây à? Kiểu này phát chốt là cơ cấu ;))
+sub  cho cái này xỉ nhục người làm wa'
+sub Chua co Dich vu thu tien nuoc. Tien dien cung moi chi o HCM. De nghi ngan hang k noi qua. Toi mat cong goi dien len tong dai hoi tham
+sub Rất tiện lợi  tks Techcombank  nhưng đôi lúc cũng tiếc không được gặp con gái cô thu tiền điện đi cùng mẹ  hì hì
+sub  Nhà em ko có ai ở nhà thì cô hàng xóm hay đóng dùm ^^ nhưng ai hay PD trong xóm thì cạch luôn. Có công cho mượn mất công đòi. Giờ thì 1m30s token. Done :))
+sub Tớ thấy kinh thế khủng hoảng khắp nới  thấy các quan chức ngân hàng Vn cũng như têế giời - mất việc ầm ầm..nhưng với Techcombank   tớ vẫn tin lắm vì bạn bè LHS7778 vẫn ' trụ ' lại Techcombank   cần phải giữ lòng tin thì mới dám vượt qua những lúc khủng hoảng khó kha7n ma...
+sub  tks ad  vui quá xá 
+sub mình thì luôn tin tưởng techconbank vn và tất cả mọi người trong gđ mình cũng vậy
+sub Ngan hang mjnh yeu thjk .
+sub ngan hang gj dau co luc k co tien de rut phai di tru khac
+sub "Với techcombank tôi có thể thoải mái làm mọi việc ở mọi nơi mà vẫn được Techcombank phục vụ tận tình với các dịch vụ tiện ích:
+sub 1. Truy vấn số dư tài khoản
+sub 2. Truy vấn tỉ giá quy đổi
+sub 3. Nạp tiền di động trả trước
+sub 4. Thanh toán hóa đơn dịch vụ
+sub 5. Chuyển khoản trong nội mạng"
+sub  vào làm thẻ (visa debit. & visa credit) đi. có tất.thanh toán Big.C toàn cầu và nhiều smart mà. 
+sub Tui thay Bank la tui Bang ( la lanh do ) hi..hi..
+sub nếu như cả nhà đang thực hiện một cuộc gọi quan trọng cho khách hàng để thương lượng về một dự án mới thì đột nhiên điện thoại bị hết tiền. Cả nhà cần phải nạp tiền ngay vì không thể để cuộc gọi bị gián đoạn quá lâu. Nếu là mình mình sẽ nạp tiền điện thoại từ tài khoản ngân hàng của mình qua dịch vụ tiện ích mobile banking vì bây giờ điện thoại di dộng kết nối 3G  wifi đều sẵn nên thao tác này vô cùng đơn giản và nhanh chóng 
+sub MÌNH DÙNG ATM CŨNG ĐƯỢC MẤY NĂM RỒI VÀ MÌNH RẤT THÍCH
+sub Sản phẩm techcombank thật nhiều tiện ích  phục vụ 24/7
+sub NHANH TIỆN GỌN ĐÁP ỨNG MỌI MỌI KHÁCH HÀNG KHÓ TÍNH NHẤT.HI VỌNG VÀ CHẮC CHẮN RẰNG ATM SẼ PHÁT TRIỂN XA HƠN NỮA PHỤC VỤ NHÌU HƠN NHU CẤU CỦA NGƯỜI DÂN.CHÚC ATM PHÁT TÀI PGATS LỘC 2013 NHÉ
+sub "1. Sử dụng thẻ ATM tôi có thể rút tiền vào bất cứ giờ nào  địa điểm nào trên cả nước mà không cần mang tiền mặt trong người  rất rủi ro.Ngoài ra   với thẻ TCB visa tôi còn được hưởng nhiều ưu đãi khi đi mua hàng  đc hoàn tiền 100%_ khi có CT   dịch vụ thông minh  tiện ích..
+sub 2. Với mobile banking tất cả các phát sinh giao dịch trong tài khoản đều đc báo ngay về di động 1 cách rõ ràng và đầy đủ  không những thế còn có thể truy vấn số dư bất kỳ lúc nào.
+sub 3. Thông minh và tiện ích hơn cả là online baking. Được bảo mật an toàn với mật khẩu của mình và mật khẩu của Ngân hàng( đc gọi là thiết bị tokenkey) . Tôi có thể gửi tiết kiệm hưởng ls như ngân hàng niêm yết  chuyển tiền cho bạn bè cùng hệ thống và khác hệ thống NH   mua vé máy bay  thanh toán HĐ điện nước nhận tiền western union chuyển từ nc ngoài  và có thể nạp thẻ ĐT bất kỳ lúc nào bằng dv topup... Nó thông minh như chính các cô bé kế toán tại NH vậy..."
+sub  Mobile banking cực kỳ tiện lợi. Nhất là đối với các bạn hay phải chuyển khoản đi thanh toán hay nhận tiền của mọi người chuyển về. Túm lại là mọi sự biến động về tài khoản sẽ được báo lại về máy điện thoại của mình. Thực tế mình cũng tập tọe bán hàng trà giảo cổ lam online  Trước mình chưa biết đến dịch vụ này  mỗi khi khách hàng chuyển tiền mình toàn phải chạy ra cây hoặc gọi đến ngân hàng kiểm tra - tốn thời gian  công sức  tốn tiền xăng/điện thoại để kiểm tra. Giờ sử dụng dịch vụ mobile banking  mình chỉ việc thao tác trên điện thoại . Việc chuyển khoản đi cũng tiện lợi hơn rất nhiều  có thể chuyển tiền mọi lúc  mọi nơi mà phí chuyển khoản cũng rẻ hơn so với nộp tiền tại quầy Mình rất hài lòng về dịch vụ này
+sub "1. Sử dụng thẻ ATM tôi có thể rút tiền vào bất cứ giờ nào  địa điểm nào trên cả nước mà không cần mang tiền mặt trong người  rất rủi ro.Ngoài ra   với thẻ TCB visa tôi còn được hưởng nhiều ưu đãi khi đi mua hàng  đc hoàn tiền 100%_ khi có CT   dịch vụ thông minh  tiện ích..
+sub 2. Với mobile banking tất cả các phát sinh giao dịch trong tài khoản đều đc báo ngay về di động 1 cách rõ ràng và đầy đủ  không những thế còn có thể truy vấn số dư bất kỳ lúc nào.
+sub 3. Thông minh và tiện ích hơn cả là online baking. Được bảo mật an toàn với mật khẩu của mình và mật khẩu của Ngân hàng( đc gọi là thiết bị tokenkey) . Tôi có thể gửi tiết kiệm hưởng ls như ngân hàng niêm yết  chuyển tiền cho bạn bè cùng hệ thống và khác hệ thống NH   mua vé máy bay  thanh toán HĐ điện nước nhận tiền western union chuyển từ nc ngoài  và có thể nạp thẻ ĐT bất kỳ lúc nào bằng dv topup..."
+sub "Với dịch vụ mobile banking của Teckcombank thì chúng ta tiết kiệm được rất nhiều thời gian.
+sub - Người nhận sẽ nhận được tiền ngay lập tức.
+sub - Chuyển tiền mọi lúc mọi nơi 24/7  kể cả ngày nghỉ.
+sub - Phí chuyển tiền thấp hơn so với các phương thức chuyển tiền truyền thống.
+sub - Đảm bảo an toàn tối đa.
+sub Online banking Với hình thức thanh toán này  chúng ta có thể đặt mua vé máy bay trên trang web của Pacific Airlines và sử dụng dịch vụ F@st i-Bank để thanh tóan tiền cho mã đặt chỗ được cấp. Pacific Airlines sẽ căn cứ trên thông tin thanh tóan thành công của khách hàng và gửi vé qua đường email  fax hoặc thư tay theo như yêu cầu của khách hàng khi đăng ký mua vé. 
+sub Nhờ thế mà chúng ta có thêm nhiều thời gian cho gia đình và không mất công đi lại nhiều."
+sub "Dịch vụ mobile banking của Techcombank giúp chúng ta tiết kiệm được rất nhiều thời gian vì người nhậnkhông những sẽ nhận được tiền ngay lập tức. mà còn bảo đảm an toàn tuyệt đối nữa. Hơn nữa  chuyển tiền qua Techcombank có thể mọi lúc mọi nơi 24/7  kể cả ngày nghỉ. Mặt khác  phí chuyển tiền ở đây lại thấp hơn so với các phương thức chuyển tiền truyền thống và so với các ngân hàng khác nữa.
+sub Qua hình thức thanh toán Online banking   chúng ta có thể đặt mua vé máy bay trên trang web của Pacific Airlines và sử dụng dịch vụ F@st i-Bank để thanh tóan tiền cho mã đặt chỗ được cấp. Pacific Airlines sẽ căn cứ trên thông tin thanh tóan thành công của khách hàng và gửi vé qua đường email  fax hoặc thư tay theo như yêu cầu của khách hàng khi đăng ký mua vé. 
+sub Nhờ thế mà chúng ta có thêm nhiều thời gian cho gia đình và không mất công đi lại nhiều lại vừa tiện ích và bảo đảm an toàn."
+sub "Online banking là một trong những kênh phân phối các sản phẩm dịch vụ của ngân hàng  mang ngân hàng đến nhà  văn phòng  trường học  đến bất kỳ nơi đâu và bất cứ lúc nào. Với máy tính kết nối Internet  bạn sẽ được cung cấp và được hướng dẫn các sản phẩm  các dịch vụ của ngân hàng. Với dịch vụ này ta có thể quản lý tài chính cá nhân; mua sắm trực tuyến với hàng hóa dịch vụ; sử dụng dịch vụ thanh toán  thu hộ  topup trực tuyến …
+sub Sử dụng dịch vụ Online banking ta có thể tiết kiệm được thời gian và chi phí dịch vụ.
+sub Dịch vụ này mới mẻ và rất hay nhưng tuy nhiên mình vẫn nhận thấy còn rất nhiều hạn chế : 1.Chưa thoả mãn khách hàng ở những cấp độ cao hơn như việc gửi tiền mặt vào tài khoản  việc đăng ký sử dụng dịch vụ… còn phải tới trực tiếp giao dịch tại chi nhánh ngân hàng 2. Các hệ thống ngân hàng điện tử của các ngân hàng còn phát triển tương đối độc lập  chưa có sự phối hợp  liên thông cần thiết nhằm phát huy cao nhất hiệu quả của dịch vụ mới này 3. Giao dịch Online banking còn phụ thuộc nhiều vào chứng từ lưu trữ truyền thống  chưa thể điện tử hoá mọi chứng từ giao dịch và việc sử dụng chữ ký điện tử  chứng nhận điện tử chưa được phổ biến rộng rãi và chưa thể hiện được ưu thế so với chữ ký thông thường..."
+sub  online banking của Techcombank Việt Nam giúp mọi người có thể thực hiện mọi giao dịch giống như tại quầy ba của TCB rất tiết kiệm thời gian mà không tốn công sức
+sub "1. Sử dụng thẻ ATM tôi có thể rút tiền vào bất cứ giờ nào  địa điểm nào trên cả nước mà không cần mang tiền mặt trong người  rất rủi ro.Ngoài ra   với thẻ TCB visa tôi còn được hưởng nhiều ưu đãi khi đi mua hàng  đc hoàn tiền 100%_ khi có CT   dịch vụ thông minh  tiện ích..
+sub 2. Với mobile banking tất cả các phát sinh giao dịch trong tài khoản đều đc báo ngay về di động 1 cách rõ ràng và đầy đủ  không những thế còn có thể truy vấn số dư bất kỳ lúc nào.
+sub 3. Thông minh và tiện ích hơn cả là online baking. Được bảo mật an toàn với mật khẩu của mình và mật khẩu của Ngân hàng( đc gọi là thiết bị tokenkey) . Tôi có thể gửi tiết kiệm hưởng ls như ngân hàng niêm yết  chuyển tiền cho bạn bè cùng hệ thống và khác hệ thống NH   mua vé máy bay  thanh toán HĐ điện nước nhận tiền western union chuyển từ nc ngoài  và có thể nạp thẻ ĐT bất kỳ lúc nào bằng dv topup..."
+sub hi.adm Tech k hỉu hít ý mình oy.mình k nói là dịch vụ online banking k thể thực hiện được giao dịch như tại quầy . Câu đầu tiên mình khẳng định dịch vụ online banking như là 1 ngân hàng tại nhà.... có thể quản lý tài chính cá nhân tức là bao gồm việc kiểm soát được số dư tài khoản...; mua sắm trực tuyến với hàng hóa dịch vụ tức là mua các mặt hàng trực tuyến...; sử dụng dịch vụ thanh toán  thu hộ  topup trực tuyến tức là thyanh toán tiền điện nước  nạp thẻ đt…Các hạn chế thì mình cũng nói trên oy  nộp tiền mặt vào tài khoản vẫn phải tới ngân hàng  chưa thể mua bán các dịch vụ tài chính  bất động sản online  chưa có sự liên hệ thống liên ngân hàng ...
+sub  nkug ma techkombank kug co nkju kaj k tjen ban o jo o huyen mjh k co kaj kay atm techkombank nao ma the kua mjh k gjao djck duok o kay agrjbank
+sub Mình rất tâm đắc với dịch vụ internet banking của TCB. Dịch vụ này đã giúp mình rất rất nhiều trong cả công việc và cuộc sống của mình. Đơn giản từ dịch vụ nộp cước điện thoại top up cho điện thoại di động hay dịch vụ chuyển tiền liên ngân hàng hoặc đơn giản hơn từ những khoản nộp phí nhỏ lẻ trong công việc. Mình đăng ký sử dụng khoá điện tử token key và mọi công việc của mình bỗng trở nên nhàn hạ và tiết kiệm thời gian lạ lùng. Muốn gửi tiền mua hàng hay mua một dịch vụ mình chỉ cần mang token key ra và đăng nhập vào mạng của TCB  sau 2 phút là hàng hoá hay dịch vụ đã được thanh toán  muốn thanh toán nợ thẻ tín dụng của ngân hàng khác mình cũng chỉ mất có 3 phút thôi. Nói tóm lại các dịch vụ thông minh của TCb đã là một phần tất yếu trong công việc và cuộc sống của mình  sử dụng nó mình cảm thấy là một người làm chủ được kha khá thời gian. Mong rằng TCb ngày càng phát triển  thịnh vượng và cập nhật thêm nhiều ứng dụng công nghệ mới.
+sub "Ngày xưa mỗi dịp về quê ăn tết  cầm theo tiền mặt giấu trong vali cũng sợ mất  bọc theo mình thì không an toàn. Nay mình chuyển qua sử dụng thẻ ATM  không còn phải lo lắng như xưa nữa. Thẻ ATM nhỏ gọn  mà quan trọng là mình có thể rút tiền bất cứ giờ nào mình muốn. 
+sub Hôm đi làm thẻ ở Techcombank cho ông xã  tư vấn viên rất nhiệt tình hướng dẫn . Mình cũng đăng ký luôn mobile banking để tiện theo dõi sớ dư tài khoản. Nhờ dịch vụ này mình luôn nắm được tình hình tài chính gia đình để chi tiêu hợp lý. 
+sub Thông minh và tiện ích hơn cả là online baking  có thể thực hiện mọi giao dịch giống như tại quầy bạn nhé. Nhưng vì tốn phí  nên cá nhân mình chưa dùng. Tương lai khi giao dịch qua ngân hàng thường xuyên hơn  mình sẽ đăng ký thôi."
+sub "Mình thấy khi sỡ hữu một chiếc thẻ ATM thấy có rất tiện lơi. có thể chuyển tiền  mọi lúc mọi nơi  và nhận tiền nhanh chóng  cũng với thẻ ATM thì bạn có thể mua bất cứ sản phẩm nào   mặt hàng nào cũng những cữa hàng liên kết với ngân hàng thì đều có thể thanh toán qua thẻ  tạo sự thuận lợi cho người mua hàng   không phải đem theo tiền mặt   đặt biệt là trong thời kinh vẫn còn nhiều vấn đề xã hội khác chưa hoàn chinh. Đã tạo nên sự yên tâm hơn cho người dùng.
+sub Đặt biệt hơn là nay ngân hàng có nhiều dịch vụ kèm theo thẻ như (ATM  online banking và mobile banking) đã tạo nên sự vững tin và chất lượng cho thẻ ATM.
+sub Như mình đây  là một sinh viên phải xa nhà  khi có chiếc thẻ ATM thì bố mẹ có thể gửi tiền cho mình mọi lúc   mọi nơi  không phải lần nào cũng đi lên tận tỉnh để gửi tiền  khi tại xã mình đã có ngân hàng của mình đang sử dụng."
+sub Gia đình mình có sở thik đi Du lịch  nhưng mình rất e ngại khi đi bỏ nhiều tiền trong ví ko an tâm  từ khi có chiếc thẻ ATM Techcombank thì dù đi đến đâu cũng rất tiện lợi  từ thanh toán phòng  nhà hàng.v..v.. hay shopping..cảm ơn vì chiếc thẻ nhỏ mà hiệu quả ko nhỏ
+sub  Việc sử dụng các dịch vụ ngân hàng thông minh (ATM  online banking và mobile banking) đã giúp tôi tiết kiệm đc rất nhiều thời gian cũng như công sức.Các bạn hãy thử và cảm nhận những tiện ích của các dịch vụ ngân hàng thông minh. Đó quả là 1 sự lựa chọn thông minh cho tất cả mọi người.
+sub  Hi vọng 1sáng kiến wecare sắp tới tăng hạn mức tín chấp của nhân viên  tạo đk cho nv giải quết vấn đề trước mắt  yên tâm làm việc và cống hiến lâu dài.
+sub Toàn những kinh nghiệm " tăng lương giảm giờ làm" . Hehe. Bạn nào mà nói đúng là mỗi ngày bạn tiết kiệm được thời gian ở TCB thì bạn là đúng là CHIẾN BINH
+sub  bắt làm thẻ mới đc nhận tiền thì bằng hòa rùi. làm thẻ hết 170k. đc thưởng 200. đc hẳn 30k cơ mà
+sub hình như TCB làm thẻ miễn phí mà bạn. Mình thấy làm thẻ để nhận giải cũng hợp lý mà  chẳng lẽ lên cầm phong bì về thì cũng kì kì 
+sub Bạn đã bao giờ được gì miễn phí chưa? Bạn vẫn phải làm đúng những gì yêu cầu để cuối cùng bạn nhận được giải thưởng miễn phí mà ko bit rằng bạn đã phải trả nhiều hơn bạn nhận.
+sub  yêu Techcombank Việt Nam
+sub "Techcombank Việt Nam chon cau tra loi cho tuan trk that su la chua dk. Ban Hoa Ngoc Hoang chua neu he't dc ca'c khia cach cua viec tiet kiem t/g  ban do' ms chj neu dk su tiet kiem thoi gjan khj use dvu cua Techcombank Việt Nam thoi. Co'n ra't nhjeu ca'ch kha'c de tjet kiem thoi gjan ra't hay ma m.n da chja se.
+sub M0ng lan sau Techcombank Việt Nam hay suy ngki that ki trk khj chon cau tl xuat sa'c nhat."
+sub Hoang Manh Hung TCB tuyet cua dinh
+sub Toi yeu TCB
+sub Tecombank  niềm tin cậy của mọi nhà.Cánh cửa chuyển giao giữa năm cũ và năm mới đã bắt đầu  mình chúc TCB ngày càng phát triển và vững chắc.
+sub Ưu đãi toàn hàng xa sỉ. Thôi chờ hãng sales 50% mua cho lành
+sub A so lam chau cho techcombank lam chu Hieu ah
+sub mong đến thứ 2 để đến với Tech đây ^^ yêu Tech 
+sub mong đến thứ 2 để đến với Tech đây ^^ yêu Tech 
+sub Sống ở hành tinh khác chắc thích hơn ở AMC?
+sub techcombank la ngan hang lon va ho tro tot cho khach 
+sub "ngày cáng mất niềm tin vào mấy cái ngân hàng. 
+sub Giao dịch thỳ lỗi mà vẫn trừ tiền của KH.
+sub Thời gian giải quyết thỳ quá chậm."
+sub  Ước mơ được là một thành viên của BIDV trong tương lai!
+sub anh Dũng ơi  nhớ BIDV Bắc HN wa .
+sub em thích cái xe  em kia nhìn vướng quá:))
+sub Vay mua ô tô thôi đi ze may chán quá
+sub Mình dùng thẻ ATM của BIDV  dùng cho các cây ATM ngân hàng khác vì ngân hàng này luô hết tiền! Đau quá mà không làm gì được!
+sub BIDV ngày càng phát triển và nhân văn hơn:X
+sub Chúc mừng BIDV. Dịch vụ của ngân hàng thực sự rất tốt 
+sub Hoành luôn  không gian rộng  sang trọng  riêng biệt  lại còn có cafe và trà ngon để uống khi đến giao dịch 
+sub Không gian đẹp  nhân viên xinh  phục vụ nhanh... Đúng là PGD BL chuẩn. Chúc mừng BIDV Hà Thành.
+sub PGD của CN Hà thành đẹp quá! Đúng là chuẩn cả về hình ảnh và phong cách giao dịch!
+sub Hoành tráng! Đúng là PGD chuẩn! Chúc mừng BIDV Hà Thành!
+sub Sử dụng Ebanking của BIDV từ những ngày đầu tiên cảm thấy rất thích thú  vì sự tiện ích trong tất cả các giao dịch  tiết kiệm time  công sức  chi phí chuyển tiền lại rẻ hơn nhiều  mua sắm online cũng nhanh nữa.Dùng dịch vụ Ngân hàng ở bất cứ nơi đâu  an tâm vì độ bảo mật cao của BIDV eBanking. Bên cạnh đó dùng EBanking thấy mình hiện đại và rất kool 
+sub BIDV tuyệt vời  luôn luôn dành sự quan tâm cho khách hàng. Toi yeu BIDV.
+sub Hoan nghênh BTC lắng nghe  thấu hiểu ý kiến của nhiều member 
+sub  Hii! Cập nhật ghê thật! Like!
+sub Này Sea Mountain  bảo anh Thắng làm cho cái thẻ này đi. Đang khuyến mãi miễn phí đấy  dùng như thẻ ATM thôi. Cị có thẻ về rồi. Đẹp lắm!!!
+sub Hình ảnh ACB đợt này rất sáng sủa  chúc Ngân hàng thần tốc hơn nữa
+sub mình muốn làm thẻ visa card mà các ngân hàng cần nào là hợp đồng  sao kê tài khoản 3 tháng gần nhất sổ hộ khẩu chứng mình.. lắm chứng từ mà ko thời gian để làm nh thứ như thế
+sub đùa  hôm nọ đi xếp hàng lâu ơi lâu  làm cũng chả nhanh lắm.
+sub "Công nhận là ACB làm thẻ nhanh chóng. Như mấy chỗ khác  định làm thẻ  mà cứ hẹn vài tuần mới có => mất ít nhất 2 ngày phép mới làm xong cái thẻ.
+sub Còn ACB hôm bữa mình làm thẻ  chỉ xin ra ngoài có 45p mà đã làm xong thẻ  không cần phải mất ngày phép  Sướng gì đâu."
+sub cái giao diện trang chu web acb quá xấu rồi  khó sử dụng  chẳng giống ai  thiếu thân thiện....toàn là phải mò...vãi....
+sub cá nhân mình thì thấy websie ACB đơn giản  gần gũi  không phô trương  rõ ràng  dễ sử dụng  dễ hiểu  thích hợp cả với những người không rành về tin học.
+sub  tuyêt voi Á Châu ơi
+sub  cũng k đến nỗi lắm nhờ
+sub  Thich Ngân hàng Á Châu ACB roi do nha. Cam on rat nhieu  Minh dang mong doi cai nay. Nhưng mà vẫn thu 44k phí dịch vụ mà sao nói không thu hả ad ?
+sub Mua vé trực tuyến qua trang web của Vietjet Air rất hay gặp lỗi.
+sub Hay đi công tác nên có cái này ok. Khỏi ra ngân hàng mạc dịch kia
+sub Nó lừa đó mọi người ơi  nó trừ tiền phí cao hơn và khi có sự cố thì vietjet nó lại đổ lỗi cho mình. Thế là mình vẫn chịu thiệt. Tóm lại toàn bọn lừa thôi
+sub Yêu phong cách này rồi. 
+sub đến cái đường dây nóng để góp ý cho các dịch vụ của NH còn không có mà đòi... uy tín. Lãnh đạo ACB ráng tới NH ACB  chi nhánh Hậu Giang  Q6 xem cách làm việc tại đây đi nhá.
+sub Dịch vụ này rất hấp dẫn
+sub Acb thì tốt nhưng mức phí thì ng dân bt khó mà yêu thuog dc
+sub Acb la ngan hang kho chịu nhất trong các ngan hang minh giao dịch đó.
+sub mình ko để số dư ở ACB nữa. ACB ngân hàng có phí chuyển khoản đắt nhất Việt Nam 
+sub "Không biết có tốt không hôm bữa sếp mình ký tờ set cho mình đi lấy tiền vô ngân hàng nó kêu không trùng chữ ký  mình phải chạy tới ngân hàng acb khác thì rút được tiền  giống hành hạ người ta ghê.
+sub Like · Reply · March 20 at 5:06pm"
+sub De thuong  nho lai tet roi nha minh ai cung khen bao li xi mau vang cua ACB dep.
+sub Ngan hang la to chuc. Nhan vien la ca nhan. ACB rat tuyet voi nhung phai sot vai ca nhan chua tot. Toi tin ho se tot...! Vi ACB la moi truong tot de lam viec va hoc tap.
+sub nhanh chân chị ơi
+sub "Tự hào thay ngành ngân hàng chúng ta  góp mật xây đời tựa như những nụ hoa. Danh hiệu anh hùng biết mấy vẻ vang. Là ngân hàng Đầu tư và Phát triển Việt Nam"
+sub "ngày cáng mất niềm tin vào mấy cái ngân hàng. 
+sub Giao dịch thỳ lỗi mà vẫn trừ tiền của KH.
+sub Thời gian giải quyết thỳ quá chậm."
+sub mình hay buôn bán với nước ngoài làm máy này rất tiện. ở nước ngoài người ta xài phổ thông ko bít là vn mình h cũng có. nếu cá nhân có làm được máy này ko hay chỉ công ty mới được phép lắp?
+sub cty minh muon lap may pos  ngan hang co the tu van giup minh dc ko
+sub Này Sea Mountain  bảo anh Thắng làm cho cái thẻ này đi. Đang khuyến mãi miễn phí đấy  dùng như thẻ ATM thôi. Cị có thẻ về rồi. Đẹp lắm!!!
+sub  vâng . thank chị nhé 
+sub BIDV muôn năm!!!! 
+sub Viec lam cua Ngan hang Chinh sach xh la rat y nghia va cao ca
+sub Vay moi ka cong dan cua VBSP. Tuy kho nhung giup dc nhieu kho hon minh. Qua tuyet voi cac dong nghiep  hay co len.
+sub Chi co o can bo vbsp thoi. Co len
+sub Cố lên cbtd ơi
+sub  A em cbtd nhcsxh cung cố gắng nắm tay nhau vượt qua mùa mưa lũ lấy gian lao vất vả làm niềm vui làm động lực giúp người nghèo cải thiện cuộc sống.
+sub  Xin chia se voi su vat va cua can bo NHCSXH khi di den cac diem phuc vu nhan dan
+sub ui trời  hà giang em chính sách đc cấp xe navara đi roài   ở LS khổ hơn hg mà k đc ưu tiên xe trước nhỉ?  vẫn đi vitara  cố lên các anh chị nhé!
+sub Nhìn như dân cửu vạn ấy nhỉ...........thương lắm ace làm chính sách 
+sub Quá nguy hiểm..
+sub E tu hao la ng can bo cua NHCSXH.
+sub Các bạn quá tuyệt vời !!!
+sub Minh da tung dc di tren con dg nay Vat va lam  nhung con co nhieu nguoi di thuong xuyen co. Co len cac cb cua nguoi ngheo.
+sub Co gang len cac can bo tin dung cua nguoi ngheo  vi tam long cao ca ong troi se dong long giup suc vuot moi kho khan
+sub Cái con mịa chúng mày
+sub Cảm phục mấy anh chị qá.....
+sub Ui thật vất vả anh chị quá
+sub "The moi goi la cb tin dug chu...vi ng ngheo ma
+sub …"
+sub  Doan nay nguy hiem truot ra ve duong la lan xuong vuc? Nhung chien sy tham lang?
+sub Màu hoa lan giống màu biểu tượng của NHCS nhỉ.Hoa lan biểu tượng cho vẻ đẹp thuần khiết và sự cống hiến hết mình cho cuộc đời  cũng giống như cán bộ nhcs đang hết mình vì người nghèo. Phải không các bạn.
+sub Nhcs chj to chuc thj cho co thoj. Buon
+sub Xa Truong Son o dau ma can bo va nguoi dan deu tu te rua hi. Hi
+sub Ngan Hang chjnh sach huyen mjnh. Mong sao đc làm cán bộ ở đây. Góp phần xây dung quê nha. Gjúp dân yên bjnh lòng tôj hanh phúc.
+sub 1ljke..hjjjj
+sub Ấm lòng
+sub Đó là lý do ngân hàng chính sách làm vịêc mà ko nghĩ tới lợi nhuân và tiền....
+sub yêu vẻ dep thanh tao. yêu lắm VBSP
+sub Chi co can bo Nhcsxh moi lam duoc…
+sub Chi co can bo NhXS va Vitara moi lam duoc! Tu hao!!!!
+sub 682. Cố lên các bạn
+sub Thay mặt bà con cảm các chị đã mang hp về cho người nghèo
+sub  những nụ cười làm xóa nhòa mọi vật xung quanh
+sub Tinh than phuc vu cua Ngan hang Chinh sach ma
+sub Vất vả nhưng ý nghĩ bạn Hậu nhỉ?
+sub Chúng ta cùng cố gắng.
+sub Cố lên các bạn
+sub tuy khó khăn nhưng chị em ta ko nản chí!!!!!
+sub bt thoi
+sub choáng.
+sub Vui ve ruc ro quen ca met.
+sub bốc phét. Chú hỏi kinh nghiệm a Hùng của bọn chị nha.Đây là xã Vân An huyện Chi Lăng. Tỉnh Lạng Sơn cả nhà ah tỉnh LS còn rất nhiều xã khó k đi nổi nữa cơ
+sub  vui the con gi. nhin hon ho the kia co ma
+sub Nghi ma thương vợ mình và các chi em NHCSXH qúa!!!
+sub Xin chia se cung cac ban 
+sub Khối người mơ ước được lội bùn như các chịấy mà ko đc í :))
+sub ad oi cho mình hỏi khi nào tổ chức cac vòng thi vay ad. đợi lâu quá mà khong có tin tức gì hết
+sub Bao giờ thi thế ad ơi . Lâu quá . Huhu
+sub Bầu trời sụp đổ…
+sub ôi.chờ 1 năm rồi mà nhận được cái thông tin này thì hơi bị buồn luôn
+sub Miền bắc năm nay không có tuyển dụng à.sao bất công thế nhỉ
+sub  Ở miền bắc có được thi không  k wen sao biết chỗ nào mà nộp  hết hi vọng rùi. Nản
+sub Trừ nhcs ra nhỉ...like
+sub nhcs nhu xuan hoanh trang wa..
+sub  Khong dep bang CN NHPT Kien Giang  he  he.....
+sub Khong dep bang Cn NHPT Son La
+sub phong cách của VDB chi nhánh nào cũng na ná nhau nhỉ???
+sub  Công nhận ngân hàng mình đẹp thật nếu xây mới
+sub  Nhìn cũng được nhưng cổng và tường rào thì xấu òm  ko dep bang VDB Hải Dương
+sub Chuẩn đấy  đợi Sở I xây ở Hào Nam xong up cho tắt điện hết 
+sub phú yên là số 1....
+sub Like 
+sub Mình chuyển online qua VCB từ 10h đêm hôm trước đến 09h55' sáng hôm sau bên kia vẫn báo chưa nhận được tiền. Oải!!!
+sub  Hình ảnh ACB đợt này rất sáng sủa  chúc Ngân hàng thần tốc hơn nữa
+sub Đổi logo mới tốn một mớ tiền mà lị!!!
+sub acb chu dao qua
+sub Tai sao vay ơ acb lai kho va phưc tap vây măc du đây đu điêu kiên???
+sub cái giao diện trang chu web acb quá xấu rồi  khó sử dụng  chẳng giống ai  thiếu thân thiện....toàn là phải mò...vãi....
+sub cá nhân mình thì thấy websie ACB đơn giản  gần gũi  không phô trương  rõ ràng  dễ sử dụng  dễ hiểu  thích hợp cả với những người không rành về tin học.
+sub tuyêt voi Á Châu ơi
+sub Tuyet voi ACB
+sub " Thich Ngân hàng Á Châu ACB roi do nha. Cam on rat nhieu  Minh dang mong doi cai nay. Nhưng mà vẫn thu 44k phí dịch vụ mà sao nói không thu hả ad ?
+sub Thích · Trả lời · 1 · 25 Tháng 3 lúc 16:51 · Đã chỉnh sửa"
+sub nhảm  đến cái đường dây nóng để góp ý cho các dịch vụ của NH còn không có mà đòi... uy tín. Lãnh đạo ACB ráng tới NH ACB  chi nhánh Hậu Giang  Q6 xem cách làm việc tại đây đi nhá.
+sub  vậy là mỗi lần thanh toán mình quẹt thẻ ko mất phí fai ko ACB  thích thế. lựa chọn ACB quả ko sai    hầu như mình giao dịch liên tục vs ACB phục vụ rất OK
+sub Vậy mà nay mới nói. mới bị tính mua laptóp 17 trieu. Buồn ghê  hỏi có quẹt ko  có nhưng tính phí
+sub  hè tới tính đi du lịch vài nước    nhưng k biết mình 18t liệu có làm được thẻ visa k ? vs lại k biết visa acb thì thanh toán được ở nước ngoài k nhỉ  vs lại 1 điều mà mình k thích ở thẻ visa acb đó là mình có thấy thẻ visa acb của mẹ mình các con số vs chữ trên thẻ bị nhạt và mất số   thành thử ra phải ghi vào giấy or lấy bút ghi đè lên    nhiều lân đi chơi   thanh toán qua thẻ   nhân viên thanh toán người ta còn k nhìn thấy được cả số seri trên thẻ nữa   
+sub Minh thay ban nham roi day  acb co phi chuyen thap nhat nhi so voi cac mgan hang day
+sub Acb la ngan hang kho chịu nhất trong các ngan hang minh giao dịch đó.
+sub mình ko để số dư ở ACB nữa. ACB ngân hàng có phí chuyển khoản đắt nhất Việt Nam 
+sub  acb phí chuyển thấp so với các nh khác nhiều 
+sub Không biết có tốt không hôm bữa sếp mình ký tờ set cho mình đi lấy tiền vô ngân hàng nó kêu không trùng chữ ký  mình phải chạy tới ngân hàng acb khác thì rút được tiền  giống hành hạ người ta ghê.
+sub De thuong  nho lai tet roi nha minh ai cung khen bao li xi mau vang cua ACB dep.
+sub  Ngan hang la to chuc. Nhan vien la ca nhan. ACB rat tuyet voi nhung phai sot vai ca nhan chua tot. Toi tin ho se tot...! Vi ACB la moi truong tot de lam viec va hoc tap.
+sub ACB la ngan hang tot nhat m tung giao dich. Nhug ve Thai do nhan vien thi Tuy cho. Mong cac ban hay giu nguyen chat luong
+sub Tiếc là ba điều này rất nhạt nhoà ở ACB 
+sub Nói chung thấy hài lòng với ACB.
+sub Đi rút tiền ở ngân hag acb chi nhánh tô hiệu hải phòng. nhân viên mặt khó đăm đăm.trả nhẽ chửi cho 1 trận.
+sub A và B mình thấy chuẩn chứ C là chưa chuẩn đâu  mình thấy phí chuyển tiền khác hệ thống ngân hàng qua internet cao gấp đôi VCB.
+sub Có lần mình vào gửi tiết kiệm ở CMT8 HCM vào gửi xe ko thấy bảo vệ đâu  hỏi thì 1 người chỉ ở sân  người kêu chạy xuống hầm  cuối cùng cũng vào đc NH  gặp 1 anh nhân viên ngồi đang đọc báo  ở quầy riêng  còn fia trong thấy nv khác đang giao dịch bận rộn với KH  mình hỏi anh quầy nào làm thủ tục  anh vẫn ngồi doc báo và nói đi vào trong mà cũng chẵng buồn đứng dậy hoặc nhìn mình 1 chút  giờ làm việc nv ngồi vậy  thái độ vậy mình ghét nên bỏ về luôn. Chả lẽ chửi cho anh ấy 1 trận? làm việc thế a?
+sub Giá cả tương xứng với chất lượng dịch vụ
+sub Chi thich em vay xanh
+sub B là tuyệt vời
+sub fí online mà thấp
+sub  vẫn thích hình tượng cũ của ACB hơn :)))
+sub  Uh đúng ha
+sub  Cả 3 ACB mang niềm vui đến cho mọi nhà 
+sub  acb tuyệt nhất trong những ngân hàng việt nam
+sub ACB là ngân hàng tôi thấy tuyệt nhất
+sub ưu đãi tận 2 5% à  ngon
+sub hẳn 2 5% 
+sub Ngân hàng liên kết với đại lý xe hộ trợ cho khách hàng mua. đúng là 1 sự tương tác tuyệt vời  đặc biệt là sự thoải mái của người khách.
+sub Úng dụng này rất tiện. Bất cứ lúc nào cũng có thể giao dịch mà ko cần đến máy tính.
+sub Mong ACB sớm cập nhật đầy đủ cho ứng dụng này  hiện nay cỏn thiếu một số mục  cũng nhưng web của ACB cũng còn thiếu một vài mục. Ủng hộ ACB.
+sub Đang sài VIsa Prepaid của ACB chất lượng ko chê đc điểm nào nhưng có cái phí giao dịch ngoại tệ cao quá.
+sub  Da cbi tu toi 29 rui ACB oi....bi lixi ACB dep tuyet voi
+sub bao Acb we đẹp
+sub ACB luon luon lang nghe ..
+sub Dung giam lai suat cua nguoi gui nua nhe.Em la tu 18%/nam .Gio Bac ep em chi con 6;8%.Buon oi la sau
+sub "Các chức năng không sử dụng được như thanh toán hóa đơn. 
+sub Chuyển đổi giữa các munu còn lag ko mượt mà…"
+sub ần cải thiện tốc độ  mượt hơn  giao diện bắt mắt hơn  nhiều tính năng hơn nữa....
+sub Nói thật là mình rất không ưa cách nói chuyện của mấy anh nhân viên tư vấn khi gọi qua điện thoại đâu. Không biết ngân hàng quản lý thế nào chứ. Mình chưa thấy ở đâu có kiêu ns chuyện khó nghe như thế cả. Hơi bị thất vọng đấy. 0838247247.
+sub  Ngân hàng support kiều gì nhắn tin chả rep lại ? ACB đây hả ? Page sắm ra để làm gì ? quá tệ
+sub Hơi thất vọng vì hình minh hoạ này theo mình biết là của một ngân hàng bạn. Ad coi lại nhé!
+sub Từ ngày có logo mới  mình thấy yêu ACB hơn nhiều đấy  Logo mới đẹp quá!!! @@
+sub "mình đi làm cái thẻ visa  đăng kí acb online mà đi tận 2 lần  làm đầy đủ thủ tục rồi cũng không đăng kí cho mình  cứ hẹn đợi 30p 1 tiếng có tin nhắn gửi về mà giờ 2 tuần rồi cũng chưa thấy đâu. Giờ đi tới ngân hàng nữa liệu có làm cho mình hay không? không hài lòng cách phục vụ như thế này
+sub Thích · Trả lời · 6 Tháng 2 lúc 13:07"
+sub uyệt quá ...thông minh quá ....đến khi cần thanh toán lại phải lấy nước rửa móng vuốt ra lau thế là cả sơn cả nhựa thẻ chổ đó sẽ bùi nhùi một đống  chưa kể khi đem thẻ đi quẹt nếu xui gặp nhân viên khó chịu nó không quẹt vì nghi là thẻ giả  có dấu hiệu tẩy xoá...muốn thay thẻ thì tiêu mất 50.000đ lại mất thời gian...
+sub Ad ơi 10triu cao wa ad ơi
+sub Logo mới của Quý Ngân Hàng rất đẹp! Đơn giản  ấn tượng  sâu sắc và ý nghĩa  mạnh mẽ!
+sub  Chuẩn rồi! Rất thích thái độ phục vụ của nhân viên ACB. 
+sub Luôn luôn lắng nghe lâu lâu mới hiểu
+sub Môi trường thân thiện  con người dễ chịu. Tôi yêu ACB
+sub  chuẩn
+sub mình đi làm cái thẻ visa  đăng kí acb online mà đi tận 2 lần  làm đầy đủ thủ tục rồi cũng không đăng kí cho mình  cứ hẹn đợi 30p 1 tiếng có tin nhắn gửi về mà giờ 2 tuần rồi cũng chưa thấy đâu. Giờ đi tới ngân hàng nữa liệu có làm cho mình hay không? mình rất không hài lòng vì điều này
+sub Đẹp và nhanh!
+sub  Đã xài. Nhanh hơn vào wed.
+sub  Mình thấy sản phẩm thẻ của ACB được thiết kế mới lại rất đẹp  tinh tế. Mình muốn thay tất cả thẻ củ của mình sang thẻ mới có được không?
+sub ACB chỉ có bạn  chứ không có ai khác nữa hết :))))) mà phải công nhận các chi nhánh của ACB là lộn sộn nhất trong tất cả các ngân hàng mình từng giao dịch  không CN hay PGD nào giống PGD hày CN nào cả  nhất là về chính sách  hài vãi  cứ như là mình giao dịch với 2 ngân hàng chứ không phải là 1 ngân hàng ACB
+sub có không thì bảo  chứ giao dịch 2 năm rồi   đến một tấm lịch happy new year ACB còn không tặng cho đơn vị nữa là…
+sub Còn hay không làm ở ACB nữa  đây vẫn là nơi tôi thuộc về  nơi lưu lại bao nhiêu ký ức những ngày chập chững vào đời. Dù đẹp hay không đẹp  những ký ức luôn có những giá trị và bài học riêng  đã làm nên một tôi của ngày hôm nay. Đối với tôi  ACB mãi là nhà  yêu lắm ACB. Nói như lời anh Huy chủ tịch  tôi tin rằng ACB rồi sẽ "trở lại yên chiến mã".
+sub Đơn giản súc tích nhưng đầy ý nghĩa. Cảm thấy phấn chấn  phấn khích và phấn khởi ... Đúng là " Chỉ có bạn !"
+sub  TVC hay quá  k biết bên nào sx nhỉ?
+sub Oi  logo moi dep qua  dep nhat trong may ngan hang o VN  cau Slogan ngan hon  xúc tích va day y nghĩa nua.
+sub Clip hay
+sub Co Ai thấy logo này xấu hơn logo cũ giống mình ko
+sub Mặc dù không còn làm việc ở ACB nữa nhưng ACB luôn ở trong trái tim tôi. Tôi yêu ACB
+sub " Acb ngan hang cua moi nha...
+sub Thích · Trả lời · 2 · 5 Tháng 1 lúc 9:54"
+sub  ACB : Những niềm vui hạnh phúc  riêng chỉ có bạn…
+sub Logo mới xấu thế  tự nhiên có dấu chấm ở giữa
+sub  Người ta đổi Logo thì thấy đẹp và ý nghĩa hơn  còn ACB thi đi ngược lại :))))))))))))) thiệt bó tay
+sub Chúc á châu lun mạnh mẽ và ngày càng phát triển bền vững  iu ACB nhìu nhìu ^^
+sub Logo cu dep va hay hơn
+sub Acb lún mai trong tôi
+sub vang.e cam on acb e da nhan dc the mua hang.e cam on
+sub mài xem dùm kao chưa? Tư vấn gì lâu lắc lơ hok thấy vậy  vậy là mất KH ùi mài!!!
+sub cám ơn Ad nhưng mình vẫn k hài lòng kết quả lắm…
+sub Get ngan hag nay .acb dag get
+sub Ui tự nhiên thành ng nổi tiếng  cảm ơn ACB nhiều nhé
+sub  Đã bình chọn  hy vọng mình sẽ là người may mắn tiếp theo. I love ACB
+sub Ngân hàng tốt nhất cho khách hàng
+sub  Sao bên NH mình cập nhật số điểm trong tuần bị chậm  k đúng  rồi k cấp Mã dự thưởng đầy đủ cho Khách hàng??!!
+sub mình thích ngân hàng này
+sub  Ủng hộ cho ACB đi nè
+sub ủng hộ acb
+sub acb số 1
+sub về ebanking thì acb là số 1.
+sub Thích!
+sub mình thik hsbc hơn   sr vì ko liên quan =)))
+sub ACB no1 
+sub Tai sao ngan hang k tang het cho nhung khach hang nao gui so tiet kiem cua ACB nhieu nam wa ma cu fai can cu vao so tien gui nhiu moi dc wa tang lam vay mat uy tin wa ngan hang ACB ah
+sub Sao ko thay tang khach hang vay ad..
+sub Vui wa di co hình minh trên do.hehe TOI YÊU ACB
+sub Acb tuyet voi
+sub ác em ACB xinh đẹp :))
+sub Chu tich HDQT chi di va qtam den nhung chi nhanh lon  con nhung PGD nho nam nao cung bi thiet thoi  tet cung vay
+sub Chương trình ý nghĩa lắm
+sub  Chuong trinh nay hay qua 
+sub "lam the o ngan hang AGR xong di rut tien o cot the ACB rut toi da 1 lan dc co 2 trieu ma phi 1 lan rut la 80k. rut xong 7 trieu moi biet mat may tram ngan tien ngu. ACB lam an nhu cai L — cảm thấy bực mình.
+sub Thích · Trả lời · 19 Tháng 7 2014 lúc 12:10"
+sub GIA DINH TOI HAU HET AI CUNG TIN TUONG V A GOI TIEN NGAN HANG ACHAU   ca nha goi ngna hang nay   tuy nhien moi thnag nen bao so tien goi cho khach biet thi qua tot h oac 3 thnag goi 1 lan nhu vay khach hang se yen tam hon va tu do khach hang se bo het cac ngan hang khac de goi tien vo ngna hang nay
+sub Toii yêu acb
+sub Đồng phuc ACB ko đẹp như bên Sacombank
+sub Có bảo hiểm này yên tâm đi ngao du roài
+sub Bải hiểm này hay nè 
+sub ..nghe hấp dẫn quá ta…
+sub Đang định làm thẻ ACB đây  nếu có dịch vụ bảo hiểm này thì đúng là hay thật 
+sub Mình thích Paris nhất 
+sub  ACB card làm mình sợ  tính lãi ác quá....
+sub .Thai Lan đi...Thai Lan rẻ nè…
+sub .hic...chỉ giảm 10% cho Mastercard…
+sub ...phải đăng ký ngay dvu này của ACB và lên plan dắt bố mẹ đi chơi mùa hè này mới được ^^…
+sub .dịch vụ thế này thì chấp cả bọn trộm lun r …
+sub .tiện ghê nhỉ?...
+sub  Với tổ chức cơ cấu ACB hiện nay thì không thể có niềm tin vững chắc được!
+sub Quảng cáo Vợ xấu và toàn con gái là ko ok rồi!
+sub Ngân hàng mà gia đình tôi chọn hơn 15 năm tin tưởng tuyệt đối vững chắc niềm tin
+sub Dịch vụ này của ACB thật hay 
+sub nghe có vẻ tiện ghê! ^
+sub nhiều dịch vụ ghê!
+sub bé nhà mình thích đồ chơi ở đây lắm  thanks ACB nhé 
+sub Lum o dau ma hay zay ta
+sub  Ngam nghi cung dung ha.
+sub Qc wa nha sf
+sub Du da roi ACB nhung van mong mot ngay ve lai mai nha chung. I Love ACB
+sub Bước sang năm thứ 3 gắn bó với đại gia đình. Hi vọng một năm mới tràn đầy năng lượng với nhiều hứa hẹn mới. I  ACB
+sub Của vay là cục nợ. Sợ lắm. Lấy đi xài rồi ko có tiền trả thì chí
+sub "lương thưởng năm nay mà mua sắm đc j chết liền đó...hức
+sub 23 Tháng 1 2013 lúc 21:21 · Thích · 2
+sub "
+sub ok nghe hay lam
+sub Wow  lãi suất giảm nhiều quá. 1%(năm) cơ à !!!
+sub Nhưng nói chung tôi thấy thích ACB hơn Agribank nhiều. Họ phục vụ tốt hơn.
+sub cam on vi da khen ACB nghe ma mat long mat da  khong uong cong minh luon cop gang
+sub ACB vs Vietinbank phục vụ tốt hơn !..
+sub ACB ngan hang của mõi nhà nghe hay quá.hôm nay tôi xuống chi nhánh ngân hàng ACB buôn hồ huyện karông buk rút tiền .khi tôi viết xong giấy rút tiền nạp cho nhân viên ở chi nhánh này kiêm tra.là thẻ chứng minh không trùng khớp với ngày cấp.ngay lập tức cô này lên giọng nói thẻ chứng minh này cũ rồi không cho rút tiền được "thông cảm đi" cô này vừa nói xong thi cô ngồi sát bên lập tức xé banh cài tờ giấy mà tôi vừa viết xong.cách hành xử các nhân viên ở chi nhánh rất bất lịch sự mong mọi người chú ý.
+sub với chi nhánh ngân hàng ACB ở thị xã buôn hồ -huyện karông bút -đaklak không riêng gì cá nhân tôi đâu mà rất nhiều người phàn nàn cách phục vụ y như cửa quan ở chi nhánh này.tôi thục sự tức giận cách làm việc ở đây tôi muốn gặp người lãnh đạo ở đây đễ phán cách họ đối xử với tôi nhưng thấy không hy vọng...thôi thì lên FB nói vài câu cho hả giân vậy.
+sub  có vụ này nữa ah  nge đâu môt số người nói nhân viên ACB tại SG làm việc tốt lắm mà
+sub Hinh Anh nay rat y nghia
+sub hjch wa dj…
+sub Phục vụ tốt lắm nhưng khi khách hàng gặp rắc rối thì cũng chối bỏ trách nhiệm tốt lắm hihi
+sub "Thế tệ hơn chữ tệ thì chọn số 5 hả ? Đùa thôi  ACB dịch vụ tốt  có điều việc giảm giờ làm việc của các phòng giao dịch ngoài giờ thì hơi buồn vì mình đi làm  chủ yếu giao dịch vào cuối tuần !
+sub 18 Tháng 10 2012 lúc 15:06 · Thích · 2"
+sub dạo này ACB phục vụ tệ lắm  không như truớc đây nữa. số 3
+sub  Ok  nhân viên chi nhánh CMT8 dễ thương
+sub Đồng phục xấu  chỗ để xe hẹp  chất lượng phục vụ tạm ổn
+sub Tệ.. mịa... rút tiền.. cái loa nó cứ lãm nhãm..hoài..
+sub Tốt. khoái nhất là tiền vừa nộp  0.5 giây sau dien thoai báo tit tit.
+sub  - dịch vụ khá tốt  ấn tượng với thủ tục làm VISA và CK nhanh  15' là có thẻ ... 1 vài nhân viên chi nhánh Q2 chưa biết cười !
+sub bình thương
+sub nhưng ghét nhất là mấy quầy giao dich ngoài giờ cứ quen là lên làm trước bất kì ai ngồi chờ tới số  quan liêu-thân quen
+sub  tốt
+sub very guoc' 
+sub  tot  nhung ma nhung ngay gap su co thi thai do cua nhan vien kha te  va viec rut tien nhung ngay do phai cho` rat lau. Chi rieng nhung ngay do minh cam thay ko hai long
+sub "chọn 2 á! ngân hàng bình hòa gần nhà mình nhân viên gì mà chán thắc mắc hỏi chẳng thèm trả lời hay trả lời gì mà mình tốt ngiệp cao đẳng rồi ko hiểu gì hết.
+sub Chọn 1.cho việc chuyển tiền giao dịch khá nhanh chóng. Good"
+sub bản thân gia đình cũng đang vướng mắc rất nhiều vs ACB  nghĩ mà nản =.
+sub chất lượng dịch vụ ACB hơn hẳn các NH quốc doanh
+sub Tks @Loan Phuong nhiều nhé.mình luôn thắc mắc tại sao lãi suất đều bằng nhau mà mỗi tháng mình đều lãnh ra phần tiền rất khác nhau chênh lệch một nữa lun á.thật sự số tiền rất ít.vài chục ngàn.ko đáng là bao nhiêu nhưng mình thấy lạ.tại sao khác quá nhiều.mình hỏi mấy chị trả lời được khoảng 2lần thấy mấy chị cũng bận.mình thôi lun.sợ làm phiền
+sub 2.5 Từ bình thường tới tệ thôi bạn
+sub Cách đây 5 năm  vô ACB là sướng nhất. Nhân viên nào cũng cười tươi roi rói. Giờ thì chả ma nào them cười với minh.
+sub Tot ma. Mang doanh nghiep thi khong biet  mang ca nhan thi luc nao cung thay thoai Mai moi Khi Giao dich. 
+sub  Cung tuy chi nhanh thoi. Kho noi dc lam
+sub Good la khach hang hon 10nam cua acb rat tiec khi acb xay ra su co...acb co len
+sub 3 Binh thuong  cho p gdich kenh nhieu loc p9  q3 quay atm rut tien ma bao ve de thung rac ngay duoi chan  day la rac  tran ra khoi ca thung  roi do an  thuc uong bve tan dung de len thung atm.
+sub có một vài CSR ở chi nhánh/PGD xử lý cviec còn thiếu cái tình trong đó  nguyên tắc cviec là vậy nhug các bạn fải linh hoạt để kh cảm thấy thoải mái  đừng tạo sự ngột ngạt ở đây
+sub phuc vu khach hang voi long say me ma.hj
+sub tuy vao tung nhan vien.vi nhan su thieu phai kiem nhieu vi tri dan den k co kien thuc chuyen sau keo dai thoi gian giao dich lam anh huong den chat luong phuc vu kh.
+sub  4.Cũng còn tùy chi nhánh  tùy nhân sự mỗi vùng  đặc điểm vùng miền cũng khá quan trọng  chính sách cào bằng hoặc nhất quán của ACB chưa thực sự phù hợp với đặc điểm dân cư của khu vực như miền Trung chẳng hạn:v
+sub Không hài lòng với cách phục vụ của ACB lắm  đòi hỏi rất nhiều hồ sơ  thời gian giải quyết hồ sơ lâu  không linh hoạt  cứng nhắc.
+sub  Tùy PGD  như PGD Ong Ích Khiêm  phục vụ ko tốt  nhân viên làm thủ tục lâu  thái độ ko hòa nhã vui vẻ.
+sub gdv phục vụ quá kém  hằn học thiếu lịch sự. mã GDV DIEMNTKDO chi nhánh kỳ đồng q3 .sáng đã chuốc lấy bực mình
+sub Hom nao phai lam 1cai the moi dc hihi
+sub Giống con yêu của tui quá!
+sub đúng tâm trang
+sub Yêu qúa cơ
+sub Đoạn này là hay nhất..!!! Yêu ACB từ đây...sự đổi mới sau này không mang lại nhiều cxuc như đoạn này:)
+sub hich that
+sub Trúng thưởng được chết liền
+sub su dung qua troi ma co thay qua gi dau...tham chi tet den con khong duoc tang lich nua kia
+sub Ad ACB : sao ma ming gui tien o day hoai ma chang nam nao thay gui tang wa hay ao mua j het zj ! Gui 5-6nam oy ah ! Chan ghe
+sub Sử dụng bao nhiêu dịch vụ của ACB  giao dịch cũng ko phải ít  cũng tới chữ tỉ mà chả đc cái quà vẹo nào bao giờ :-<
+sub Mình cũng thế ! Chưa bao giờ nhận được cái thư chúc mừng sinh nhật hay chúc tết gì như bên Agribank ! ^^ Chỉ thấy tiền mỗi tháng trừ đủ thứ phí ! Khổ ! Ngân hàng nhà nước vẫn hơn !
+sub "em đứng ở ACB Maxi Cộng hoà 1 lát mà có ngừ trúng vàng 24k... hahhaa
+sub 11 Tháng 10 2012 lúc 16:07 · Thích · 1"
+sub Chuyen ngoai le : sang nay m rat khong hai long thai do lam viec cua 1 nv o chi nhanh ACB Su Van Hanh  m co ghi phieu y kien KH  nhung m ghi cho do tuc thoi chu k biet cai phieu do co ai doc k?
+sub Ở Cn mình có KH trúng vàng. Thật may mắn
+sub Bị phạt vì tội trốn thuế ... ê mặt lắm 
+sub NH c đông nữ thế c ui vui phải bít c nhỉ
+sub ủng hộ ý kiến
+sub nhìn pờ rồ nhất đóa  hehe
+sub Vui vẻ nhìn mặt hay thế chứ
+sub Đọc hết cái đống hướng dẫn muốn mờ mắt luôn mà vẫn chưa biết  ?
+sub Dịch vụ của ACB về Chứng Khoán kém quá …
+sub Quá khứ đẹp…
+sub  TTB Miền Nam tự hào là có bộ giải ngân đầu tiên 
+sub  hôm trc mới có bài báo bảo tpb nằm trong số ngân hàng chưa giải ngân mà nay có báo mới rồi 
+sub Quá tuyệt!!!
+sub "xin lỗi không biết cái thể lệ đưa ra làm cái cm gì mà sao cuối cùng trao giải kiểu này thế??? căn cứ vào cái gì vậy hay ai là người nhà thì trao cho người đó vậy. Vui lòng tr lời cho mình hiểu với nghĩ mãi không ra
+sub Thích · Trả lời · 2 · 12 Tháng 3 lúc 21:59"
+sub  Hơn 500 share khủng
+sub oàn auto share mà cũng trao giải  mất uy tín quá :))
+sub Like
+sub  Thấy event hay và ý nghĩa nhất là được in kỷ niệm vào hình ảnh cơ mà hack gì mà hack kinh thế nhở. Thôi khỏi tham gia lun cho lành. Giá mà AD chọn caption hay và ý nghĩa hoặc là hình ảnh đẹp cả bài viết hay thì tuyệt hơn cơ!
+sub  Toàn đua like. Chán thật
+sub Event "Cuộc thi hack like" :))
+sub "Chào ad TPBank 
+sub Về cuộc thi ảnh đang diễn ra trên fb TpBank  mình tham dự với sbd 12  mình có đôi điều phản ánh thế này:
+sub 1. Trong tối qua đến sáng nay 7/3  đã có kẻ CỐ TÌNH CHƠI XẤU  khi ảnh của mình đêm qua có khoảng 370 like  đến sáng nay có 620 like  và toàn bộ số like mới là like của người nước ngoài!
+sub 2. Mình đã kiểm tra một số ảnh khác trong cuộc thi thì cũng 1 vài ảnh bị tương tự như vậy  ví dụ: sbd 21  31  34  36... Với số like tăng lên đáng kể và quan trọng hơn FB NƯỚC NGOÀI LIKE CÓ CÙNG TÊN VỚI TÀI KHOẢN ĐÃ LIKE ẢNH CỦA MÌNH
+sub 3. Vậy đã có kẻ cố tình hack like những ảnh này nhằm che dấu ảnh hack like của họ? Mong Ad TPBank giải quyết thoả đáng trường hợp này.
+sub Đến bây giờ giải thưởng ko quan trọng bằng hình ảnh và danh dự bản thân mình. Đây là hình ảnh của mình và những người thân nhất đem ra dự thi  mọi người  bạn bè mình sẽ nghĩ gì khi thấy ảnh của mình hơn phân nửa là like nước ngoài  rõ ràng là hack like?
+sub Mong ad có thể nêu rõ sự việc này để đem đến công bằng cho thí sinh.
+sub Cảm ơn TPBank.
+sub Trân trọng "
+sub  SBD 28 và SBD 19 ::: Hack like - tăng like - mua bán và trao đổi like rõ ràng quá đi ... 
+sub áo buộc số báo danh SBD 28  dùng thủ thuật tăng like ... yêu cầu ban tổ chức đưa ra khỏi danh sách dự thi ảnh... nó sẽ không công bằng cho các bức ảnh còn lại ... xin cám ơn
+sub  Toàn hack like  ban tổ chức chấm ảnh là hợp lý nhất!
+sub Hix đúa like
+sub "d ơi có thằng nó thấy em lên top nên nó hack mật khẩu nick em rồi thay hết thông tin rồi ... bây h ad cho hắn trúng thưởng là oan ức cho em lắm đấy BẰNG CHỨNG ĐÂY Ạ ... 
+sub đây là ảnh của em ... các thứ trong anh cũng là của em luôn ... 
+sub https://www.facebook.com/photo.php?fbid=1617399408488500&set=a.1394809554080821.1073741833.100006553686406&type=1&permPage=1 
+sub Tất cả em đăng lên từ tết ... cso cuộc thi là em lấy từ nick cũ sang nick mới để thi vậy mà bây h có đứa hack nick em ad ạ "
+sub Thi thôi  tết này nhiều ảnh mà. Vui là chính 
+sub Sắp đc đi VJA giá ưu đãi rồi
+sub Sếp Tiến TPB Hà Thành phong độ quá ha 
+sub Cám ơn BTC đã tổ chức 1 cuộc thi ý nghĩa cho các bé. Mong rằng sau này sẽ có nhiều cuộc thi khác tương tự cho các bé sau này. Thank you!
+sub Quả ngọt nhờ sự chăm sóc  quan tâm  đường lối đúng đắn của HĐQT  BĐH  BGĐ các Khối/Chi nhánh cùng sự tâm huyết  trách nhiệm và quyết tâm hoàn thành công việc của mỗi CBNV TPBank. Đó là kết tinh từ Tài  Trí  Nhân của mỗi cá nhân  đơn vị trong TPBank. Hy vọng mọi ng đều có phần thưởng xứng đáng để cảm thấy đc ghi nhận và có thêm động lực để hoàn thành các mục tiêu vô cùng thách thức trong năm 2015. We Love TPBank!
+sub hưởng ít thôi để tiền tái đầu tư :)))
+sub "lá thư có nội dung hay và xúc động có cháu  Nguyễn Ngọc Đan Khanh vs cháu Hoàng Duy Khánh 
+sub cám ơn BTC có cuộc thi rất ý nghĩa"
+sub "ui quá TPBanLần đầu tiên mọi chương trình KM cho tiết kiệm có áp dụng cho cả gửi tiết kiệm điện tử trên eBank. Vui quá hy vọng mình sẽ có seri may mắn trúng thưởng 2 chỉ vàngk ơi mong mình sẽ có giải
+sub "
+sub Bức ảnh dự thi cháu Nguyễn Ngọc Đan Khanh và cháu Hoàng Duy Khánh rất hay và xứng đáng ảnh rất đẹp
+sub rất đáng yêu
+sub ước mơ của trẻ thơ thật đáng yêu quá
+sub  hay quá
+sub  hay quá em ơi
+sub Đẹp quá. Tiếc ko dc đi ngắm  hic hic
+sub  Quá đẹp.....
+sub Quá đẹp tranh thủ qua tự sướng cái mới đc. 
+sub Ngon quá anh  ko có tên nhà cung cấp nhỉ =)) Mai Chí Trung
+sub  Sếp ơi chị là niềm hãnh diện lớn lao và là thần tượng của lòng em :))
+sub  Con tre ma be gioi that nhi.
+sub Tuyệt vời!
+sub Các hình ảnh rất chất
+sub ..TUYỆT !.
+sub Yeah  nạp luôn để vừa hưởng KM của Viettel  may mắn đc thêm 50k của TPBank thì thích nhỉ
+sub Pbank lãi cao tHaizz  chả bao giờ tôi trúng đc giải j ở đây  haizzrung trần được thưởng đậm nhớ đãi anh em tromg nhóm VB2 nha!
+sub  Tpbank phat trien nhanh qua. May ma duoi kip nhg ong lon khac.
+sub "Một sức mạnh hiếm thấy!
+sub Một sự lớn mạnh và phát triển mà tôi từng bắt gặp!!!."
+sub Tiếc quá e không tham gia được. Ảnh đẹp quá. Like nhiệt tình
+sub Tiếc quá e không tham gia được. Ảnh đẹp quá. Like nhiệt tình
+sub "hật tuyệt vời!
+sub ""NƠI ĐÂU CÓ MÀU TÍM...
+sub NƠI ĐÓ CÓ HÌNH TƯỢNG TIENPHONG BANK""."
+sub " Thật vậy! Đã từ lâu mình đã nhận ra điều ấy...Mình đón nhận 1 cách chân thành và tin tưởng tuyệt đối những gì TienPhong Bank đã và đang thực hiện.
+sub Điều mình muốn nói ở đây về ""hình tượng màu tím"" là sự chung thuỷ  ân cần  tích cực vả rất hiệu quả. Khi giao tiếp  giao dịch với khách hàng. Từ phong cảnh cho đến phong cách ăn mặc của đội ngũ nhân viên đều là màu tím cả. 
+sub Hàm ý của mình là như vậy đó!.
+sub ""NƠI NÀO CÓ TIENPHONG BANK HOẠT ĐỘNG LÀ NƠI ẤY CÓ MÀU TÍM"".
+sub Sở dĩ mình dùng 2 từ ""Hình tượng"" như đã bình luận trên  hàm ý muốn nói lên điều đó bạn à.
+sub Cám ơn bạn đã quan tâm những lời trao đổi của mình.
+sub Thích · Trả lời · 13 Tháng 5 2014 lúc 14:56 · Đã chỉnh sửa"
+sub Trên cả tuyệt vời!
+sub " Thấy ""màu tím"" lả nhớ TienPhong Bank. 
+sub Thấy TienPhong Bank là nhớ sạc đầy năng lượng...
+sub TienPhong Bank-màu tím
+sub ""Mọi lúc mọi nơi- phục vụ quí khách""."
+sub Dep qua
+sub Thật hạnh phúc trong mênh mông rừng hoa
+sub TienPhong Bank- niềm tin tuyệt vờ
+sub 5 cọc 10k chứ ít à ? Em mang ra phủ tây hồ là lãi lắm đấy
+sub Puby Tũn k vô địch ah  k thể tin nổi zz
+sub Xin chân thành cám ơn TienPhong Bank.
+sub chưa gì đã bị nhắn tin thu phí tn 5k 1 tháng 
+sub Dịch vụ SMS Banking của TPBank mình thấy dùng rất ok  gì chứ riêng việc dùng thẻ Visa mà cứ tiêu tiền là có tin nhắn báo ngay là thấy yên tâm hẳn  Mình nghĩ phí 5k/tháng mà để được dịch vụ tốt vậy là hợp lý mà 
+sub  vậy tính ra 1 tháng trả tới 11k cho 1 cái thẻ rồi 
+sub Mình thấy 11k so với việc sử dụng dịch vụ tốt thì cũng đáng mà  mình chả có gì comment về dịch vụ online của TPBank cả ^
+sub mình trước sài cũng nhiều ngân hàng rồi nhưng thấy TPB vì cũng 1 chương trình cách đây 5 năm cũng thấy DV ngân hàng cũng ok nhưng cũng gặp vài điều rắc rối nhưng cũng đã giải quyết ổn cả mình thì vẫn sẽ sài TPB nhưng chắc sẽ cắt vài DV vì đang là SV 
+sub sao bên mình ít vậy  mình thấy bên sacom hạn mức tới 100 lận
+sub Tự hào DAB tự hào là CBNV của DAB
+sub Chỉ là khách hàng của DAB.. Nhưng khá hài lòng với chất lượng dịch vụ của DAB.. Nhưng sao DAB ko mở thẻ thanh toán quốc tế nhỉ? Visa Debit.. Vì DAB chưa có nên tui cũng chưa làm thẻ này 
+sub  K biết ai cấp vậy  lũ ngu.
+sub  lanh thuong thi nhieu m tra lg nhan vien ko ra gi ca
+sub "Hang VN ko co thu nao dung duoc thich dung hang ngoai hon
+sub Thích · Trả lời · 2 Tháng 4 lúc 19:12"
+sub chị ơi hoành tráng chưa
+sub sao ngta hỏi mak ad không trả lời  chương trình gì của đông á mak search trên google không thấy lấy đâu người ta biết mak tham gia  đề nghị ad nên tuyển thêm ban quản trị group để quản lý tôt hơn. thân chào
+sub  nhà e là khách hàng ruột của ngân hàng đấy
+sub hehe đã trúng
+sub Hiểu lầm gì vậy ad ơi!
+sub èo. ngân hàng mình không kết nối với vietcom bank ạ
+sub vo chuyen di roi hoi han k kip   phi chuyen con hon gia cho den nua
+sub sao lại đưa hết số cmnd ra ko bảo mật thông tin cá nhân à
+sub Đã chuyển  đúng là nhanh thiệt 
+sub ngân hàng làm ăn nhứ cức
+sub Mình chuyển cùng ngân hàng kênh ngân hàng điện tử đc ko AD
+sub Chỉ chuyển tiền thôi hả Ad  rút tiền ko dc hả Ad 
+sub Là ck wa ngân hàng khác hay sao ạ? Phí chuyển bnhiu?
+sub  Thích vay
+sub e đã tham gia ad nh
+sub nam tham gia lấy quà tăng bạn gái đc k ạ? e tham gia rùi nè
+sub e đã tham gai rùi ạ ! ad check giúp e nhé
+sub  mình đã tham giá nhé DongA Bank  làm sao biết mình trúng giải vậy ad? thks ad nhé 
+sub Add ơi em đã tham gia  ảnh bià đẹp và dễ thương quá à hihi e thích mê
+sub Mình đã tham gia.
+sub  Em đã tham gia nha DongA Bank
+sub Mình tham gia ùi nhé DongA Ba
+sub Thuong xuyen cap nhat cho ban nhe Thank'
+sub Dep wa. Ad dân chi e phu nu cn q10 di ha? Bo con o nha chay theo ad doa nha. Noi túm lai la dep wá
+sub Có liên quan ghê
+sub Ad kinh nghiệm quá ! chắc người iu của ad sẽ rất happy trong ngày 8/3 đây ~.~
+sub Rat thich cach phuc vu khach hang cua DAB -CN quan 10
+sub BỎ BANK ĐI ANH  QUA EM TRẢ LƯƠNG CHO. ;))
+sub "ch
+sub Ngọc Long Blackmoon Nguyễn tốt quá  nhưng em có được tăng đâu."
+sub  ý nghĩa.
+sub bài viết có ý nghĩa         
+sub Phòng mình có thẻ trông chuyên nghiệp trế :> 
+sub Các sư huynh đệ cố gắng dành phần thưởng của sếp Duc Tran nhé
+sub  Nhận mấy chục căn bên R6 về thì lúc nào cũng đứng Top luôn pác Bui Trung Kien nhỉ
+sub Có khi xin sang Sea thôi bạn Bồ Bồ Xuân Đạt ơi. Bên này tôi sắp hết việc r.
+sub  pải chăm để kiếm tiền  giành giải từ H
+sub thì ơn giời mà...pải chịu khó thắp hương 
+sub  lile sếp kiên
+sub SeABank Cầu Giấy xin cảm ơn sếp Poppy Libra ạ! Chi nhánh cũng mong sếp tiếp tục ủng hộ và hỗ trợ Chi nhánh trong thời gian tới!
+sub  Ý nghĩa quá cơ ! rạng danh thêm cho cả Seabank ! Chúc mừng chúc mừng
+sub Ý nghĩa quá cơ ! rạng danh thêm cho cả Seabank ! Chúc mừng chúc mừng
+sub P. KHCN toàn nhân tài thoai
+sub P KHCN rực rỡ quá
+sub Cố lên SeABank Thăng Long!!!
+sub Bên SeaBank cần cấp bảo hiểm sức khỏe thì ới em đấy nhé
+sub Toi thich hinh anh cua cac ban
+sub hoành cháng nha seabank
+sub hoành cháng nha seabank
+sub  Hình như Ocean Bank Quy Nhơn dễ thương hơn Ocean Bank Quảng Ngãi đó. Hihi
+sub  Hay qua Hom nao e cho doanh nghiep cua a vay it nhe
+sub Đẹp thật đấy e ạ  sáng nay Vu Thi Phuong Hanh cùng các đ/c Vcb có bị mưa k thế
+sub àm cho bạn cái đi Bích Phượng
+sub  Đọc thấy dài   nhiêu thông tin quá  thực ra làm rất đơn giản
+sub cm = fb của mình chứ  chuyển qua lại đi bạn
+sub  cm sao no cung ra cai ni a
+sub haha  tại cũng nằm trong thành viên ban quản trị nên vậy đó. Trong chỗ cài đặt có chuyển qua chuyển lại đó  xem thử đi ^^
+sub "Tôi yêu nhờ thu  chứng từ
+sub Yêu chuyển tiền
+sub Yêu điện đến  đi
+sub Tôi yêu thanh toán – chứng từ
+sub yêu các điện 
+sub Trên hệ thống Tracer 
+sub Hằng ngày thông báo phát mệt (a í à) 
+sub Lọc điện rồi đi ghép điện...
+sub Tôi yêu Mô Zai  hót vàng
+sub Yêu mỗi chiều
+sub Yêu hệ thống không treo
+sub Tôi yêu ấp đết (Update) mỗi ngày 
+sub Ngắm mặt cười ()
+sub Trên hệ thống Chát Lanh
+sub Hằng ngày còm - ni - câ - tờ (a í à)
+sub Lờ cờ nhờ thu suốt ngày
+sub Tôi yêu nhiều mọi giao dịch
+sub Mỗi khi chi nhánh scan lên
+sub Vê hai nhiều là phê rồi
+sub Ngại chi quyết toán cuối năm
+sub Lưu kho chứng từ liên tục
+sub Mồ hôi…kể chi khó khăn
+sub Tôi yêu phòng của tôi nhiều
+sub Mặc cho sớm tối hai ca
+sub Ngàn nụ hôn trong tim
+sub Dành tặng trung tâm của tôi
+sub Tôi yêu trung tâm chúng tôi
+sub Yêu khách hàng  
+sub Yêu Chi nhánh thân thương
+sub Tôi yêu xử lý chứng từ
+sub Bên những người thân của tôi
+sub Hàng nhập hàng xuất rất nhiều 
+sub Toàn là hồ sơ quá dày
+sub Tôi yêu nhiều từng giao dịch
+sub Mỗi khi chi nhánh scan lên
+sub Tôi yêu ngồi kiểm chứng từ
+sub Kiểm nhanh  không sót lỗi đâu
+sub Tôi yêu phòng của tôi nhiều
+sub Cả khi sớm tối hai Ca
+sub Ngày ngày ta bên nhau
+sub Dựng xây trung tâm mạnh hơn"
+sub like ảnh phải like vietcombank châu đốc lun nhe Minh Phương
+sub mọi người like ảnh là phải like luôn Vietcombank Châu Đốc đó heeeeeeeeeeee!
+sub T cũng vừa đọc qua rồi . Muốn lắm nhưng chưa đủ tiền . Chắc phải cuối năm nay. Hixxx
+sub gia re thi goi e voi nhe
+sub Cái này hay  được đấy.
+sub Cái này hay ak nghen
+sub heee Chị nhưng rất tiếc là lần này ko có sử dụng   chắc phải chờ tới lần sau
+sub Không bạn ah cảm ơn bạn đã quan tâm
+sub  Ngày xưa đâu phải trụ sở này chị Viet Hoa. Để hôm nào post cài hình phòng gd số 1 cho chị hoài niệm nha hjhjhjh
+sub đây là ảnh chụp trụ sở cũ của chi nhánh hiện tại chi nhánh đang xây lậi bạn à.
+sub Lô gô mới đẹp và rất có ý nghĩa.
+sub Ko xot mam mo het a to hi!!!
+sub coi chừng trẹo chân đó anh đẹp trai vietcombank ơi
+sub Mọi người hãy cùng đặt hình làm ảnh cover facebook nhé
+sub  Phụ nữ VCB Huế là hoa của nam VCB Huế chơ 
+sub Cb lên quản trị rồi cơ à :))
+sub A e P.QLRRTD ghi nhận buổi giao lưu bóng đá rất vui và có nhiều bàn thắng ở đẳng cấp cao 
+sub "chắc a Sơn đang tăm e nào thôi ku ạ  có vài nhân vật mới. Gpb TĐN là tt đào tạo e ah. Nếu có duyên chắc chắn còn gặp ;))
+sub 8 Tháng 11 2012 lúc 23:32 · Thích"
+sub hị đi rùi phong trào tự sướng của GPBank Trần Hưng Đạo đi xuống hắn 
+sub Hả???? Ko phải em chị ơi. FB vừa báo tài khoản em bị khóa nữa chứ. Em vừa phải lấy lại mật khẩu ấy
+sub  ma cung bi the a
+sub  :(((((((((((((((. Trên trang cá nhân của em còn mất hết luôn ấy. Chỉ thấy cái nhật ký hoạt động đăng cả loạt lên :((((((((((((((
+sub  anh xào lợn vcd =]] haha
+sub dạ! em đây! hì  theo nguồn tin của em được biết. thì giải thưởng lần này là dành cho bức ảnh do ban giám khảo chọn. chứ ko phải là do khán giả bình chọn nhiều hay ít. bức ảnh của DDO tuy được bình chọn nhiều nhưng ko được BGK chọn vì thế ko được giải gì  chi tiết cụ thể thì phải chờ tờ GP.Bank Times tháng 11 - số đặc biệt mừng sinh nhật GP.Bank ạ!
+sub  Đây là do phòng QHKH đã tận dụng lợi thế trời cho của 10A7 Trần Đại Nghĩa :))
+sub  Chúng ta chắc chắn sẽ chiến thắng bởi chúng ta là Đông Đô. Đừng vớ vẩn!
+sub  Để a huy động nốt anh em Thanh Xuân nữa cho thắng 1 cách thuyết phục
+sub  xin chúc mừng các bạn các bạn làm tôi liên tưởng tới bầu cử tổng thống mỹ đang diễn ra rất căng thẳng.Nhưng các bạn là Đông Đô nên không phải lo ngại gì vì Các bạn là tập thể có nhiều thứ nhất- "đông " mà.Tôi chỉ mong một điều là sau khi công bố kết quả sẽ có một buổi cảm ơn.Đó là truyền thống của GP đông đô mà.và khi đó đừng quên nhắc tới ten tôi.Đề nghị ông bầu Đỗ Quốc Việt xem xét thực hiện nghị quyết trên.
+sub Em đang có nợ quá hạn  ko xôm được Anh béo a  hic hic  
+sub Bố trí kiến nghị lên IT k chặn facebook nữa để mọi người dễ trao đổi công vc hơn. Dùng mail hơi lak cak. A Đỗ Quốc Việt làm đại diện tinh thần cho toàn thể ace nhớ ;))
+sub  tao đã đề nghị IT mở Face một tuần nay rồi mà có thấy cái mặt mày đâu? Admin mà thế ah?
+sub Cái này anh cũng đang trăn trở! Mình ko làm đc thì kém wa
+sub  em súng ống sẵn sàng rồi  giá mà em có thể chụp tập thể được cả GP.Bank Đông Đô thì tốt anh ạ! em chưa nghĩ ra ý tưởng ... còn làm clip về GP.Bank Đông Đô thì em tặng riêng chi nhánh mình thôi …
+sub A béo trăn trở tới hơn 10pm rồi còn chưa ngủ được kia kìa  khổ!
+sub Vote cho ý tưởng
+sub Có bắt đối thì cũng nói rõ là pv chi nhánh hay HO chứ?
+sub Ko đánh giá thấp Ba Đình được đâu :)) trận trước thua Đông Đô chắc họ vỡ trận thôi :))
+sub "Quân Ba Đình TX lại ko bao giờ muốn thua quân NCT  vì có chung sân nhà  khác gì derby cùng thành phố :))
+sub Ko thấy Tha Ngo Trong lên tiếng nhỉ"
+sub Mai ae hấp diêm Long Biên nữa là thành cmn công a nhỉ
+sub Bảng này Thăng Long HQV xác định yếu nhất. Hee
+sub Ba đình đá tốt mà đá cho chubahai đứt gân kheo còn gi
+sub Ko đánh giá thấp Ba Đình được đâu :)) trận trước thua Đông Đô chắc họ vỡ trận thôi :))
+sub long biên với hà đông chứ .
+sub màu xanh của niềm tin và hy vọng. Đẹp quá! Chúc cho VCB Bến Thành luôn dẫn đầu trong công tác cũng như hoạt động Đoàn và phong trào. Like!
+sub Đây vừa là khó khăn vừa là cơ hội của VCBF khai thác nguồn tiền tiềm năng này!
+sub cám ơn VCBF nhé  mình tìm hiểu có gì mình sẽ đầu tư.
+sub  Bai viet nay cua VCBF dai nhung diem chinh ng doc quan tam la san pham nhu the nao  loi ich la gi thi lai so sai qua
+sub chắc sắp bị bắt lấy số liệu mệt nghỉ rồi ....sn
+sub e chạy hồ sơ té khói lun
+sub Bài này ko có gì mới  người viết toàn lượm thông tin và đặt câu hỏi 
+sub  Làm TGĐ EIB sướng hơn mừ 
+sub Like mạnh
+sub "Chúng ta hãy tập trung Giải bài toán : ""điều kiện cần và đủ để Eximbank đi vào quỹ đạo những ngân hàng tốp đầu từ năm 2016 mà không thoát ra ngay là..."". Ví dụ có nhiều sản phẩm hấp dẫn  thủ tục nhanh chóng  chính sách khuyến khích nhân tài  chăm lo đời sống nhân viên  chính sách lương rõ ràng  thưởng phạt minh bạch  phát huy sự sáng tạo không cào bằng  quản trị rủi ro tốt  trích dự phòng ít  xử lý nợ hiệu quả  có sự đoàn kết thống nhất cao triển khai công việc nhanh từ trên xuống dưới..... Trieu Nguyen Phạm Mỹ Linh Thai Tran
+sub Cho nên sẽ... nhưng phải có điều kiện và cần có hành động cụ thể  thiết thực!"
+sub  trả lời rất thuyết phục nhưng vấn đề nhân sự...???
+sub  Lừa tình :))
+sub Sếp CFO trả lời hay và thuyết phục cao
+sub may quá  giảm nguy cơ thất nghiệp
+sub mr Nguyen Manh Hau đại diện cho nhóm cổ đông nào đi họp sắp tới đấy   chuẩn bị phát biểu kinh quá
+sub Hy vọng một ngày mai tươi sáng  hic
+sub  like CFO  TGD.
+sub Tìm Sếp tốt!
+sub Sếp Exim cũng học tập dư lày thi chúng mềnh đỡ khộ nhề 😴
+sub Mấy ai làm đc chuyện này?
+sub Thấy mỗi bình luận dưới bài viết là chuẩn thôi
+sub Cau chuyen nay that thu vi va dung voi thuc trang hien nay.
+sub  Đó là điều tất yếu  cv gì mà cứ như cho qua ngày.
+sub mot dieu tat yeu qua binh thuong thoi ma.....
+sub  Cafef viết bài nói về eib hoài.. toàn bài ji đâu đâu…
+sub Nhà báo viết dùng toàn những từ chỉ trích  đọc là thấy không đạo đức rồi. Viết theo yêu cầu trước ĐHCĐ ??!!Sẽ có 1 đám hùa theo để đặt câu hỏi.
+sub  Exim mạnh quá  sử dụng toàn Imac
+sub Nhìn con số nợ có khả năng mất vốn là 1344ty ma muon xỉu
+sub Anh Khoa Do  SHB bên e vừa rồi toàn hệ thống bèo nhất là 3 tháng lương  VT bọn em đc 4.75 a ạ! SHB hoành tráng hơn Exim rùi!
+sub Một năm "kinh tế" buồn!
+sub  Ôi cô dâu... thật xót xa cho NH đã được hình thành cách đây 1/4 thế kỷ... đắng lòng quá...:((
+sub tiền công đoàn còn không có cơ Sweetlove Adam. Năm nay anh ngon hơn bọn em :((
+sub Đừng bao giờ tin cái giải thưởng này!
+sub E lại nghĩ ta đứng dưới do Marketing ta yếu  cả nội lẫn ngoại! E xem và bình chọn cho EIB ngay từ khi chương trình bắt đầu  vậy mà mãi tới khi chương trình gần kết thúc mới có kêu gọi phát động nội bộ.hihi
+sub  E noi dung do Phong Phơi Phới
+sub E thi thay ben sacombank lam vay ne. Tat ca kh den giao dich voi sacombank deu dc fat 1 to giay cung cap thong tin cua kh  rui nv lay thong tin do de binh chon ^^. Gian lan hok co vui.
+sub Sacom gian lận đc cũng là do ban tổ chức làm việc chưa công minh  chưa chuẩn. Vnexpress là của FPT nên ko thể nói họ ko rành về công nghệ đc. Cả đống bình chọn đều gửi từ 1 địa chỉ IP mà cũng chấp nhận là quá dễ dãi. Chỉ cần lọc hết các bình chọn trùng IP là sẽ loại đc fần lớn gian lận.
+sub Đừng cay cú  chấp nhận thất bại để đứng lên
+sub Buồn quá! Than oi...thời oanh liệt nay còn đâu?
+sub  Con ap luc nua chu . @
+sub  mình gét kiểu ai cứ nói gì là đem công nhân ra so sánh. mở 01 tập hồ sơ xin việc của 01 dân ngân hàng đúng nghĩa ra so sánh vs 01 tập hồ sơ xin việc của 01 người công nhân ra đi rồi so sánh thu nhập nhá.
+sub Dễ òm hà  cứ hết tiền đổ thừa do thiết bị hoặc đường truyền đố ma nào phạt anh H nhỉ 
+sub ồ ồ! Quả này vui rồi
+sub Bà con sẽ rút hết tiền bên Ocean gửi sang Eximbank 
+sub "VN thì cóa thể hi vọng .Nhưng còn Exim thì .....:((
+sub PS:Exim HN thì lại nằm mơ vè nơi xa lắm.....Sweetlove Adam ưi ...:((hix...:(("
+sub Đấy chỉ là con số nói chovui thôi chứ thực ra.HỌ vươt xa VN lâu rùi êi.cứ tự an ủi  rõ chán....
+sub Cái này hay xếp nhỉ  mọi ng bây h ai cũng có FB on cả ngày trên đt và máy tính. Mình lập 1 fanpage giới thiệu sản fẩm và tư vấn tại chỗ là rất hiệu quả. Bây h mọi ng cv bận rộn nên để khách hàng dành thời gian gặp trực tiếp là rất khó. Ng ta vừa làm việc vừa đc tư vấn qua FB cũng rất tiện. Khi mọi quyết định chín muồi rồi thì tiến hành gặp trực tiếp. Khối KHCN nên fát triển kênh này.
+sub Theo thông tin bài báo trên thì vẫn chỉ là khách hàng của VIB kết nỗi và live chat với nv ngân hàng. Nhưng FB còn làm đc hơn thế. EIB ta có thể tìm khách hàng bằng cách search khách hàng trên FB và gửi thông tin trước tới họ về dvụ và sản fẩm. VN hiện có 12 triệu người dùng FB  trung bình mỗi ng có 150-200 ng bạn. Nếu ta trả fí đăng tin sản fẩm lên tường cho khoảng 1000 người dùng FB thì thông tin sẽ lan tỏa đc đến 150-200 ngàn người ở cấp 1 và khi người bạn của những ng bạn share hoặc comment vào thì sự lan tỏa đc tính theo cấp số nhân. Chúng ta quảng bá đc SP  DV nhanh nhất nhiều ng nhất với một chi phí rẻ nhất. Đây thật sự là một mỏ vàng mà các ngân hàng ở VN chưa khai thác.
+sub  Lễ này ko dám ra đường lun!! Thưởng nhiều quá sợ xài hết!!
+sub That la dau long 
+sub Rất.bùn là ko phải Echs :(((((
+sub Tủi thân quá nhỉ  bây giờ thu nhập của chúng ta chỉ ngang anh An Bình và hơn được vài anh sắp phá sản. Ôi ngày xửa ngày xưa..:((
+sub  Bao giờ cho đến ngày.xưaaaaaaa  ngày xưa ơi iiiiiiiiii...:(((($$$$$một đi ko trở lại. .
+sub Đọc 14 chữ đầu xong  em đang mừng vì năm nay exim lại có 1 cái tết sôm  đọc thêm 1 chữ nữa....tâm trạng k thể nói hết
+sub  troi oi sao the tham vay ne?!?khóc tiếng Miên lun !! hụ hụ..
+sub Chep chep hy vong ngay mai tuoi sang
+sub Đắng lòng quá..:((
+sub lãnh đạo chả được "hoàn lương" sớm thế đâu mà mong 
+sub Hức hức.Buồn quá!
+sub  Quầy EIB đẹp là nhờ người thui! Hình ảnh bé Nga dạo này được truyền đi đăng tải trên các phương tiện thông tin đại chúng với tốc độ chóng mặt! Trở thành người của công chúng rồi!
+sub  Hinh be Nga dep qua. Nhung Acb sao ma hoanh trang du vay! Choang.
+sub  thích ghê... mà hụt mất tiu rùi... lần sau có j phải tham gia liền liền mới đc  hehe 
+sub choj voj ngan hang nhjeu dieu phuc tap lam
+sub Rất chính xác
+sub Thái Hoa Nguyễn bây giờ làm gì có Mobile Banking là tiện nhất 
+sub Đúng là chờ đợi ở ngân hàng về thủ tục 'khoai' thật. Nếu giao dịch nhanh-gọn-an toàn. Wonder wow.
+sub Đã từng sử dụng dịch vụ của Bản Việt. Rất ok
+sub  Và lãi suất cao hơn gửi trực tiếp tại quầy. Mình đã thử và thành công
+sub Hehe. moi doc cu tuong la anh doi tha them to nua chu. Hay
+sub đã inbox rồi ad ơi! cám ơn ad
+sub Quá hay
+sub hay quá
+sub Hong Tham tuyệt quá  tham gia thôi Nhật Nguyệt Tinh Yeu ơi
+sub hay nhỉ 
+sub  Dịch vụ này hay này. Bao giờ bận quá  sắp xếp được thời gian để đóng tiền điện  nước  internet  truyền hình cáp cũng mệt mỏi
+sub Theo cách tính này thấy sao giá trị một giờ của mình thấp quá vậy ta
+sub chiêu này hay =))
+sub canh me thôi! 
+sub ngóng trông
+sub Bộ lịch không chỉ đẹp mà còn đầy ý nghĩa…
+sub Ngân Nguyễn Thị Thùy Ko đồng ý với ý thứ 3 là thanh toán qua thẻ
+sub OÀ oà cám ơn btc nè
+sub tuyệt vời qá   tks AD nhiều nhiều
+sub hihi  cảm ơn Ad nè
+sub ó quà cuối năm thật vui
+sub Ôi thích quá 
+sub Haizz.... Ko có tên trong giải khuyến khích thì nên vui hay buồn nhỉ  biết đâu nằm trong 3 giải kia ta  Haizzz .... Phiêu quá 
+sub uyệt vời ông mặt trời
+sub bạn Thảo này trong hiền quá
+sub chương trình này ý nghĩa quá.
+sub Trước cũng đi volunteer cùng mấy bạn OS  rất tình cảm và tận tình
+sub thay luong cua ngta ma tủi khỉ quá!
+sub hình đẹp ghê 
+sub quá hot  chắc phải đi gửi tiền ngay thôi 
+sub Thông tin thật hữu ích. Cảm ơn Viet Capital Bank.
+sub cam on ngan hang nhieu mong moi nguoi can than hon
+sub Tim mai chi thay co 4 guong mat than quen thui: Chi Ha  Minh map  Long ruoi va Thanh IT...hic..hic muon quay ve day lam lai wa
+sub Một chương trình thật sự có ý nghĩa cao đẹp
+sub  vccb vô địch rồi  anh chị post hình ảnh lên cho pà kon mình xem nhé
+sub Thật ý nghĩa
+sub fb of NH post ntn hoi phan cam vs k phu hop NH! be careful
+sub  Minh la teller Qtk Hoa vuong. Qua ong kinh cua Msb Sao thay nd minh than thuong qua
+sub Em cũng thấy đẹp…
+sub MSB chỉ lo cải thiện hình ảnh cơ sở vật chất...còn hình ảnh thật sự trong mắt KH  chất lượng dịch vụ đã giảm đi rất nhiều! Cho vay khó  lãi suất cao  thủ tục rườm rà  phê duyệt cực kỳ khó khăn.....=> KH chạy mất dép!
+sub nhất trí với ý kiến của bạn.
+sub "Ko phải chung chung đâu  mà đay chỉ là tổng hợp sơ sơ các ý kiến vủa KH thôi chú mà cụ thể ý kiến của tngwf người thì ko biết bao nhiêu mà kể đâu MSB ah! Nếu ko có sự thay đổi trong cách quan hệ với KH thì sớm muộn gì MSB sẽ để mất KH vào tay các đối thủ khác. Và 1 khi đã mất KH rồi thì rất khó để lôi kéo họ về lại với MSB nữa!
+sub Cái này ko phải lỗi của riêng 1 cá nhân nào mà là lỗi của hệ thống. MSB áp dụng các tư vấn của Mc Kensey 1 cách quá cứng nhắc mà ko có được sự linh hoạt như những NH khác!
+sub Đây là 1 sai lầm của MSB nhưng nếu các cấp lãnh đạo biết nhìn nhận ra vấn đề sớm và đưa ra được các biện pháp khắc phục thì may ra có thể cải yjieenj lại được phần nào...."
+sub Hay
+sub hay thật
+sub Đội hình của MSB hoành tráng vậy. he he
+sub Thick thick  làm vậy đi anh 
+sub Em like y kien cua Xuan Trung i..
+sub cc của tui..noen 2011 thật tuyệt vời
+sub "Chưa hết T12  mà bây giờ đã là hơn 300 rồi. .
+sub I'm so proud of this !"
+sub Đẹp quá! Phải xin chuyển về đây thui. Keke
+sub Sang trọng quá 
+sub đúng là sang trọng thật
+sub "ngày nghỉ mà ai chăm chỉ lên post bài quá ^^
+sub 3 Tháng 9 2011 lúc 9:45 · Thích"
+sub moi hom nhin chu xau the sao chup anh len xinh ghe 
+sub Nho cach day 2 nam menh voi Hong Anh Trang tri noel cho SME HN. Hom vua roi ve CN van thay moi thu van vay!! Bi h bong nho noi ta da tung gan bo. Miss U! Ha Noi oi!
+sub Maritime Bank HN oh`  cam on  Hong Anh cung~ ghet pan ma` :))
+sub he he.đội ngũ Maritime xinh quá nhỉ
+sub nhìn pro của quá!
+sub Lê Mỹ Duyên điều tuyệt vời sau này sẽ làm là tham gia Young Marketer 4 ^^
+sub Dong phuc dau roi. Lon xon wua
+sub Mau do la mau chien thang thao nao lat dat toan do hay lam
+sub vãi cả ngân hàng =))))
+sub Kỷ niệm đáng nhớ! Dù sau này mỗi bạn một mái nhà khác vẫn nhớ mái nhà Msb Cộng Hoà
+sub rất tiện lợi.. nhất là các dịch vụ
+sub Mình đã bình chọn rồi..hy vọng may mắn nhé yêu Viettinbank lắm 
+sub  huy vọng doanh nghiệp  có nhiều đối pháp để cho doanh nghiệp và người dân tin tưởng để gửi gắm niềm tin
+sub Tiền thì đóng rồi ..bây giờ lại bảo trả lại ...dự án thì vẫn tiến hành ...vậy là sao ? Khúc mắc quá đê !
+sub Lại khổ dân kho quỹ lại đi đoi nợ xấu .
+sub cả thế giới chứ ko phải đông nam á mà bạn cuời dù j cũng là đầu tiên của vn mình rất đáng để tự hào ^^
+sub tài sản mà đứng 800 cũng gớm mặt rồi. Cơ mà chúng ta thì khốn khổ rồi 
+sub 200 còn tự hào chứ 2 ngàn mà cũng đứng thứ 1764 thì gần đội sổ rồi  có gì là tự hào mà khoe? 
+sub em ko thích cách chia bậc lương mới :((
+sub Ôi  bác cho xây trụ sở 10.000 tỷ. Còn nhân viên thì cù bất cù bơ
+sub Muốn đầu tư làm ăn lớn  vươn ra xa hơn thì trước hết cần nhận trách nhiệm của mình khi mình làm sai hoặc quản lí lỏng lẻo gây ảnh hưởng đến khách hàng nhé Vietinbank. bài học đầu đời đấy
+sub add cho mình hỏi là mình muốn kích hoạt dịch vụ sms banking nhưng quên mất mật khẩu cũ do ngân hàng cấp rùi thì bjo phải làm ntn?
+sub mình đăng kí làm thẻ của trường nhưng sau khi đem ra cây để đổi mã pin lại báo giao dịch không thành công là sao vậy ạ ?
+sub May mắn đến với những người đã  đang và chuẩn bị sử dụng thẻ Vietinbank.
+sub thanh niên j mà già thế vietinbank già nua yếu đuối quá
+sub Cũng bình thường  ko thik lắm !
+sub Rất quan trọng chứ ko chỉ hình thức đâu
+sub  Mỗi lần em in là em rất hồi hộp  sợ hư. Nhưng em thấy sử dụng cái này thì thư bảo lãnh trở nên giá trị hơn 1 tờ a4 ngày xưa. Kẻ xấu ko thể nào nhái nổi vì trên giấy in chìm hình trống đồng và chim lạc. Em thấy 2 hình ảnh này hào hùng chứ.
+sub  MB làm ăn ngon thật
+sub  cảm ơn  chiều vừa mới đi đky ipay  nhưng không đk 50000đ ... hơi buồn
+sub  Hi vọng khi ra trường có thể trúng tuyển vào VietinBank 
+sub  hy vong NHNN qun ly chat  giam sat duoc LS tran HDV
+sub NHCT lãi lớn  hy vọng mọi việc sẽ tốt hơn. Người thân của tôi sẽ cũng vui hơn!
+sub đúng là giống thẻ ATM. Vậy bác nào muốn tiêu trước trả sau thì phải làm cái Visa cremiums hay master cơ
+sub mình đăng kí lâu rồi chưa thấy gọi xác nhận thông tin thẻ
+sub Mình muốn làm 1 cái thẻ ATM Viettin bank rồi đấy  Fan Chelsea luôn  thẻ Chelsea thì có lợi ích gì nhỉ
+sub m đăng kí rồi...nhưng chưa nhận được thẻ hay thông báo gì là sao ad???
+sub đợt này miễn phí phát hành  Thế còn có phải mất phí duy trì hàng năm hay hàng tháng j ko Ad? Thank!!!
+sub gọi nho mình tư 2/8 đến nay đã nhận đc thể quà tặng đâu nản
+sub trúng cốc nhận đc cờ cũng hay vì đã có cốc
+sub Mình có đăng kí làm thẻ ATM Chelsea Special Team Viettin bank  đăng kí trên fan page này rồi mà sao mãi chưa có thông tin gì vậy ad? có được làmg thẻ miễn phí k z?
+sub sao thẻ mình ko kết nối paypal dc nhỉ.. hải phải có tiền trong tk mới add vào dc nhỉ
+sub like Biểu tượng cảm xúc smile
+sub Nặng lãi quá ......
+sub  Lãi xuất vay kinh quá
+sub  lùa quá dddiiii
+sub Lừa đảo
+sub Sao em nhắn tin  alo mà anh k nghe máy  cũng k alo cho em là sao? Biểu tượng cảm xúc upset
+sub  VPBCF mà ko cải thiện tình hình duyệt hồ sơ thì mình xui dài dài e ơi!hic
+sub chết lun  duyệt nhanh quá  bên mình giữ hồ sơ lâu òm ah  chán
+sub  uh  thẩm định gọi cho khách hỏi "anh trai a có hay về quê k?" khách bực quá nói lại "thế cần thêm gì để a còn chuẩn bị  hóa đơn điện hả. bla bla bla=> rejected Biểu tượng cảm xúc pacman
+sub em đặt hết niềm tin vào vhg rồi 
+sub vãi ITA gần mốc 10 @@
+sub Luân Trần Mất mịa 4 củ tiền lãi PVT. Bọn nước ngoài khôn như rận
+sub cho 1 like cho chuyên gia chứng khoán Trần Mạnh Luân 
+sub Người Chỉ Dẫn Bài của add rất hay nhưng khó áp dụng thực tiễn
+sub Ngan hang hang lua dao. Cho vay va lay lai suat cat co. Noi mot kieu lam mot kieu. Lua nguoi dan.
+sub An VC Theo duoi cai thu khong ton tai  tu dien tieng Viet goi la MONG DU.
+sub Cau Chuyen hay  hiem co ai xach Levi's ma noi chuyen voi mot nguoi an may lau nhu vay!
+sub Thành Phạm Rat hay  dang hoc hoi rat nhieu
+sub nam moi thanh cong cung vp bank
+sub Mình mới gửi có thấy tri ân đâu
+sub Mình mới gửi tiết kiệm ngày 19/12 vừa rồi mà chẳng thấy được tri ân gì cả à.
+sub  BẠN ƠI CHỈ CẦN HƠN 30' SAO BẠN BẢO LÂU NHỈ
+sub  thu tuc lau wa
+sub Chào. E có hợp đồng vay mua trả góp bên PPF..vay 6tháng..đã thanh toán đc 4 tháng..nay cần vay một số tiền mặt..a có hổ trợ làm hồ sơ đc k? K nợ xấu nợ trễ hẹn côg ty tài chính nào hết…
+sub 20% sao trả nổi
+sub  Nhân viên tư vấn nhiệt tình nhưng lãi suất cao các ngân hàng khác
+sub  Chả đk đc
+sub Nhìn HNH là ko muốn ở thẻ rồi
+sub Vp bank gioi thieu ban be beo bot qua :))
+sub Sao em mới đăng ký sd bank t-mobile mà không được tặng 30.000 nhỉ
+sub "Thik dịch vụ của VP ghê
+sub Từ giao dịch cá nhân đến doanh nghiệp
+sub Rất nhiệt tình và nhanh chóng
+sub Thủ tục quá ổn :)))"
+sub Lai suat ky hang 12T lai hanh thang hien tai nhieu vay AD?
+sub giới thiệc kiểu gì vậy ạ
+sub vpbank online là truy cập cái giống gì
+sub toan nua dao thoi
+sub Tin ga thi co chu tin ung cai gj
+sub Mình xài VP đã lâu rồi mà sao dạo này dùng app chuyển tiền ko đc phải vào tận web  toàn báo lỗi. Cũng mới mở tài khoản tiết kiệm hôm qua k biết quay só thế nào
+sub Thẻ master vp lady debit có đc hoàn tiền khi giao dịch như thẻ credit ko? Mình gọi hỏi tổng đài tư vấn và search tt nhưng ko nói gì đến thẻ debit mà toàn thấy nói đến credit thôi
+sub Mình đang có thẻ mc2 nhưng k ai tư vấn cho mình về i2b  hỏi giao dịch thì kêu gọi tổng đài  hỏi tổng đài thì lằn nhằn mất tg mà cũng k ra dc cái j hết.vậy là s
+sub Vp bank dạo này dính vào nhiều không phốt quá rồi đấy! Hết vụ cưỡng chế nhà rồi lại bị tố ủng hộ chặt cây
+sub Thấy VP Bank chạy sponsor nhiều ghê  trả lời cmt của ng dùng fb cũng tốt ghê  dùng thẻ ATM gọi tư vấn cũng okie mà sao xử lý khủng hoảng truyền thông vụ xiết nhà chán zậy.
+sub Cao thế cũng phải gửi. Nhưng mà tính phí sms hàng tháng. Cân đối vào vẫn lỗ nếu gửi ít :))
+sub Mình gửi tk onl nhưng k thấy nhân đôi điểm vậy ad? Hay là đáo hạn rồi mới nhân đôi điểm ghi nhận lên
+sub Là sao mjk ko hiểu @@
+sub Quá tuyệt. Tôi yêu Vpbank
+sub Ngưỡng mộ quá ^^
+sub Kinh. Đầu tư thế
+sub Hoành thế
+sub hích thật
+sub VPBank se la ngan hang tmcp hang dau Viet Nam .chuc mung ngan hang Viet Nam thinh vuong !
+sub Ít ra cũng phải như vậy - Ngân hàng Việt nam thịnh vượng mà - Chúc mừng VPBank !
+sub Truc Jennifer Hy vọng có cơ hội làm việc tại VPBank
+sub Chết người nông dân thôi
+sub VPBank se la ngan hang tmcp hang dau Viet Nam .chuc mung ngan hang Viet Nam thinh vuong 
+sub  Ít ra cũng phải như vậy - Ngân hàng Việt nam thịnh vượng mà - Chúc mừng VPBank !
+sub Hy vọng có cơ hội làm việc tại VPBank
+sub Chết người nông dân thôi
+sub  toàn lỗi là sao
+sub "VNExpress viết trái chiều để thể hiện quan điểm riêng  no vấn đề... nghệ thuật là cảm nhận riêng của mỗi người  ko phải là để người khác cảm nhận hộ ^^
+sub Cả về góc độ kinh doanh và giải trí quả là một ctrinh rất thành công của VPBank ah :x"
+sub  Mặc dù một số đoạn chuyển mình thấy hơi lạ... Biểu tượng cảm xúc smile nhưng tóm lại là rất tuyệt. Cám ơn VP bank!
+sub Ngan hag cua cac a co thag tien va ban cung que cua no la mot ke lua dao   neu ma ko duoi no thi tao se kien ngan hang vpBank la chuyen lua tien cua khách hang
+sub Đề nghị ngân hàng quân đội hãy có trách nhiệm với dự án MBBabylon Tân Phú  TP Hồ Chí Minh
+sub Tự hào mình là MBer :)))
+sub MB đợt này hot quá  nên yêu cầu cũng cao hơn hẳn Biểu tượng cảm xúc smile
+sub Ôi nhớ mọi người quá mới năm nào đi cùng các mbers thật vui mà bây giờ đã ba năm rồi. Ước gì có ngày mình lại được đi dâng hương cùng các mbers nữa nhỉ. Mong ước.
+sub Mở tài khoản MB cho dễ quản lý Nguyễn Phúc Vinh nhé
+sub chuyên gia NH gì mà ngu vãi Biểu tượng cảm xúc pacman dốt thì đặt tiếng Việt mịa đi  đặt tiếng anh chi cho người ta chửi
+sub Còn lạ lẫm với PVcomBank nhưng với Thắp Sáng Niềm Tin thì thật tuyệt Biểu tượng cảm xúc wink
+sub Mình đọc bài này rồi  cứ suy nghĩ mai ko biết bác ấy ko có việc làm hay thần kinh có vấn đề?! Mà cũng chịu với mấy bác tòa án  cũng nhận thụ lý đơn. Là mình mình cứ ngâm ở đấy dành thời gian giải quyết những việc khác.
+sub Nghe co ve cung hop ly Pvcombank
+sub Vietinbank có tuyển dụng thì cũng tuyển người tốt một chút. Hôm nay đến chi nhánh vietinbank hà giang đường Nguyễn Thái Học làm thẻ visa debit gặp ngay một nữ nhân viên chăm sóc khách hàng kém chưa từng thấy. Hỏi làm thẻ thì chỉ sang phòng kế toán  sang phòng kế toán họ chỉ sang lại quầy chăm sóc khách hàng  rồi lúc quay lại cô ta đưa cho cái tờ khai mờ không thấy chữ gì hết  hỏi làm thẻ thanh toán visa debit thì chỉ tích vào chỗ thẻ e-partner  hỏi thẻ visa của vietinbank có liên kết được với paypal không thì bảo không biết thẻ nó hoạt động thế nào. Hỏi thẻ visa debit chuẩn có những lợi ích gì so với các tùy chọn khác thì không biết nên gọi chuyên viên về thẻ ra trả lời tạm ổn  còn cô nhân viên chăm sóc khách hàng kia nói mới vào làm nên chẳng biết cái gì hết. Nghĩ không biết Vietinbank tuyển nhân viên chăm sóc khách hàng kiểu gì nữa...
+sub Lượng Trần VietinBank thật sự là doanh nghiệp manh  thương hiệu uy tín.
+sub 200 còn tự hào chứ 2 ngàn mà cũng đứng thứ 1764 thì gần đội sổ rồi  có gì là tự hào mà khoe? 
+sub Ôi  bác cho xây trụ sở 10.000 tỷ. Còn nhân viên thì cù bất cù bơ
+sub Ồ  nv của vietinbank mà cười nhạo các sp mới của vietinbank sao? Hay quá =))  chắc nv này cũng chỉ là ''hình thức'' thôi
+sub  MB làm ăn ngon thật
+sub Vào vietinbank đúng thời kỳ bão táp. Những năm trước tn mi chả biết nhưng năm nay chắc là....haizzzz
+sub Nhân viên ngân hàng AGRIBANK phục vụ khách hàng với thái đọ như đuổi khách hàng thì làm sao tạo được lòng tin để khách hàng vào giao dịch. Quá chán trong khi khách vào rất lịch sự nhờ lấy thông tin về tk cá nhân mà nhân viên ngân hàng đáp . Hết giờ rồi bận lắm đưng có hỏi gì
+sub  agribank là ngân hàng có đội ngủ nhân viên Bất lịch sự nhất VN/
+sub  tùy từng khu vực thôi. nhân viên miền bắc thì có thái độ phục vụ khách hàng ko ra gì. Nhưng nhân viên miền nam phục vụ khách hàng ko thể chê vào đâu được
+sub Goi Dien Den Trung Tam thanh toan bi mot co Tuong cho cau: "chung toi khong giao dich voi khach hang" cúp máy cái rụp. Mat lịch sự kinh khung
+sub bao nhiêu ngân hàng nhân viên giao dịch trẻ năng động  thân thiện  lịch sự công ty mình không mở lại mở ngân hàng agribank  đi giao dịch cứ như đi xin xỏ vậy  lúc nào cũng bị ức chế với chi nhánh Sài đồng quá  đúng là con sâu làm rầu nồi canh  lúc mình làm thì nhờ họ giúp thì lờ đi  gấp quá sếp mình qua trực tiếp thì thay đổi thái độ  sau đó mắng mình xơi xơi  (bà giao dịch viên gõ máy tính 1 ngón  rồi vừa làm vừa buôn với người nhà đổi được tiền mới rồi sang mà lấy...giọng nói cứ oanh oang  nói câu nào như cứa vào ruột ng khác.) cũng có mấy chị khác nhẹ nhàng hơn nhưng so với các ngân hàng khác thì vẫn nản ko chịu đc 
+sub Ui..e chỉ cần các mem của Agribank sống đúng với mấy chữ vàng của mình thôi...chứ ở chỗ em nv Agribank coi khach hang như rác....vãi
+sub  Ai cũng như chị thì tốt quá...nv agribank ở em sống điểu với nhau  với KH lắm...hjxhjx
+sub Cho choa hỏi 1 ngày đi rút tiền tới cả chục lần không được còn bị trừ 2 lần oan. Kiện được 1 lần xong thì lại fải đi kiện tiếp. Nhục vô đối. Đi đi đi về tới cả trăm km mất cả công cả việc mất cả thời gian tiền của. Hỏi còn chút niềm tin nào không. Không làm được đừng cố mở rộng . Tham bát bỏ mân rùi bị chửi cho nhưng vẫn trơ mặt ra được
+sub Haiz gửi tiền ma rút ra con tính phí mệt
+sub chiết khấu 100k được 2-3k  trời nóng thế này  ở nhà nộp card bằng Agribank Mobile Banking là phẻ nhứt.
+sub Chương trình nay rất hay muon chuyên khoan chi can dung đt bấm va bấm k cần phải chay đi chay lai phưc tap..
+sub Quảng cáo ghê quá
+sub Cong ty minh su dung dich vu cua MHB  thay ngan hang quoc doanh moi ma tac phong kha chuyen nghiep
+sub yeu mai MHB
+sub Tôi yêu MHB. Sẽ chỉ còn là ký ức!!!
+sub Nhung mai trong tim cua moi nguoi di đen cho thi mhb van cho niem vui toa khắp
+sub  Buon qua!
+sub  Mình vẫn ngân hàng MHB Cái tên rất thân thiện nhân viên rất dễ thương
+sub yêu MHB nhiều lắm
+sub Như thế này thì MHB ĐN càng ngày càng đi lên rồi..
+sub "ANZ bao nhiêu người chửi rồi
+sub Khỏi làm thẻ tín dụng
+sub Cũng cùng thủ tục nhưng HSBC chấp nhận   ANZ thì không"
+sub  tính làm thẻ mà giấy tờ rắc rối quá nên thôi.
+sub  tàn quảng cáo muốn sử dụng các dịnh vụ của AZN nhưng chỗ này ko có chỗ kia cũng ko đã là ngân hàng phải ở khắp mọi miền đất nước chứ ai lại ở có 3 thành phố
+sub Vừa rồi mình đăng ký sử dụng ANZ  nhưng thực sự thất vọng về trình độ phục vụ của các bạn. Quảng cáo hấp dẫn nhưng thực tế phục vụ hoàn toàn trái ngược. 
+sub HSBC nghe quảng cáo có vẻ ngon xơi. Thủ tục thì đúng là nhanh nhưng lãi so với bank khác thì đúng là vỡ mộng vì quá cao
+sub  uu dai thua pg bank.
+sub trời ơi  khu Phú Mỹ Hưng được lãi suất tốt thế…
+sub Nhan vien qua dep qua de thuong tan tinh chu dao nua
+sub  A Khoa Đăng Tr: lãi suất này là bên e giảm rồi đó a. Nhưg luôn cao hơn các ngân hàg khác ở mọi thời đại. Hii. Bên e tiền gửi của các doanh nghiệp cũg ổn định lắm. Hii
+sub Nếu ai mà có nhu cầu vay NH đừng vay CT này   yên tâm là điều kiện giải ngân của các NH là tất toán khoản vay tín chấp ... Khi đó mới lộ nguyên hình là vay nặng lãi
+sub Nếu thích tờ bầy cách lừa bọn này cho
+sub Vay CT này yên tâm luôn là nặng lãi   yên tâm là 1 500đ\ 1trieu\ 1 ngày  đừng ai ham hố mà vay
+sub Chuẩn luôn đừng vay  vay là bị thịt luộc luon
+sub Mả cha mày. Đây là bốc họ chứ vay lồn mẹ chúng mày a
+sub Hinh nhu cai nay la boc ho. Thi phai . Cam shk goc va den tan nha xem nha cua ban
+sub  Lãi cao thế vayvlm j
+sub vay nói thì dễ chứ mấy chú ngân hàng toàn phải miếng ngon mới xơi
+sub tài khoản vib tốn phí nhiều dịch vụ quá.ko tiện lợi
+sub vib nên học hỏi gói m1 của maritime và gói vp supper của vpbank nhé.chu gói freedom phí 300k 1 năm khách hàng nắm chắc thiệt thòi
+sub ngân hàng thì to thưởng dt hản 100k
+sub thấy có phần hấp dẩn nhưng chưa thông dụng ở vn lắm.
+sub  Quảng cáo chỉ là QC???
+sub Chào bạn Huynh Phuluan  Techcombank sẽ ghi nhận lại ý kiến đóng góp này của bạn. Cám ơn bạn đã luôn ủng hộ và đồng hành cùng Techcombank Việt Nam
+sub  Logo đẹp slogan đúng vần điệu và có ý nghĩa. Chúc đồng chí gặt hái thành công nhé !
+sub Cám ơn Ad nhiều
+sub úng   mình cũng thấy hơi rối  mong ACB sớm làm cho nó trực quan hơn. Quan trọng là thông tin truyền tải. Chứ giao diện cầu kỳ quá không quan trọng  ngược lại nó còn làm rối mắt người dùng.
+sub trước mình cũng thấy nó hơi khó dùng nhưng giờ lại thấy giao diện xanh nhìn dịu mát  rất đẹp 
+sub vì nếu ko có anh ý thì có thể sau vụ bầu Kiên  ACB có thể bị xóa sổ rồi ạ  em nghĩ vậy
+sub lần đầu tiên  khi xem quảng cáo ACB trên TV  lúc đấy em đang học cấp 2. EM chả biết gì về NH cả  lúc đấy đơn giản chỉ vì thích quảng cáo ấy thôi  và cho đến giờ em đã là sinh viên năm cuối chuyên ngành Ngân Hàng rồi !
+sub em ngưỡng mộ thôi  chứ ko yêu chị ạ  lỗi chính tả 
+sub với lại em thấy bề ngoài của anh này chả có gì nổi bật cả   còn tài năng thế nào thì sự phát triển của ACB sẽ chứng tỏ điều đó thôi 
+sub đúng rùi. mình chuyên dùng của ACB  mà thấy phí nó cao và nhiều hơn so với các Bank khác. nên chú ý điểm này nhé
+sub Sân chơi bổ ích thú vị cho anh chị em VBSP
+sub ghiep vu duoc cung co tu nhung hinh thuc nay day. Like .................like
+sub Làm chương trình cũ mãi mà ko theo kịp chương trình mới.. Bao giờ được nói lời chia tay đây
+sub Ngân hàng lúc nào thì cũng giàu chứ không có khá bạn Hoàng Nguyễn…
+sub ACB chỉ có bạn  chứ không có ai khác nữa hết :))))) mà phải công nhận các chi nhánh của ACB là lộn sộn nhất trong tất cả các ngân hàng mình từng giao dịch  không CN hay PGD nào giống PGD hày CN nào cả  nhất là về chính sách  hài vãi  cứ như là mình giao dịch với 2 ngân hàng chứ không phải là 1 ngân hàng ACB
+sub Hay quá  tất niên hoành tráng  anh em đến tham gia đầy đủ nhé
+sub  Bức hình này rất phù hợp với Slogan 2015 của SeABank là "Vươn tới đỉnh cao" !!!
+sub đẹp chưa này 
+sub Xin lỗi nha ..các men..nêm tìm hiểu kỹ rụi phát ngôn. ..?
+sub "Thik dịch vụ của VP ghê
+sub Từ giao dịch cá nhân đến doanh nghiệp
+sub Rất nhiệt tình và nhanh chóng
+sub Thủ tục quá ổn :)))"
+sub Lưu ý này là vì quyền lợi của KH mà bác Lâm Voi . Cán bộ mình mà cũng rên là dài hẻm. Nhưng KH thì lại khác à  vì thông tin trên là những thông tin đáng quý cả smile emoticon
+sub hinh nhu chuyen khoan ko dc  htrc minh dinh thu  goi tong dai thi bao ko giao dich dc
+sub Hix  tớ cũng là ng của shinhan mà frown emoticon   thật ra ý tớ chỉ muốn làm sao cho khách hàng biết đc dễ dàng nhất thui smile emoticon   còn tất cả chúng ta vẫn vì một ngôi nhà chung mà
+sub Sao ko trả lời luôn đi mập mờ làm gì.....?
+sub  thế này thì khác gì bốc họ
+sub độc trả lãi k cũng đủ chết
+sub rut tien mat mua eur chac re hon
+sub mình dùng 3 tài khoản 1 gói combo techcombank duy trì 2tr miễn tất cả dịch vụ.vpsupper vpbank duy trì 3tr miễn tất cả dịch vụ. gói m1 maritime duy trì 10tr miễn tất cả dịch vụ có thêm thẻ mastercard platinum.so 3 tài khoản mình dùng thì tài khoản vib chưa ưu đãi lắm.xin góp ý
+sub mình thích dùng vib lắm nhưng chưa mở 1 tài khoản nào cả.minh dùng 3 tk kia chưa trả 1 khoản phí nào bao gồm phí phát hành và phí thường niên.mong vib sớm có gói tk tiện ích cho kh nhé.duy trì 10tr 1 tháng cũng ok.nhung ko nên có phí thường niên chẳng khác gì cho trước lấy sau.thanks bạn
+sub Câu hỏi thi ngân hàng đây à? Kiểu này phát chốt là cơ cấu ;))
+sub  cho cái này xỉ nhục người làm wa'
+sub Mong là sẽ có nhìu pgd nv hơn nữa để bất kì khj nào khách đến gd đều thấy thoải mái.. Thật zui vào sự lựa chọn lần này của m
+sub Máy pos của ngân hàng khác lắp đặt thì sao ạ ? Em bị vấn đề này hoài à
+sub vậy là mỗi lần thanh toán mình quẹt thẻ ko mất phí fai ko ACB  thích thế. lựa chọn ACB quả ko sai    hầu như mình giao dịch liên tục vs ACB phục vụ rất OK
+sub hè tới tính đi du lịch vài nước    nhưng k biết mình 18t liệu có làm được thẻ visa k ? vs lại k biết visa acb thì thanh toán được ở nước ngoài k nhỉ  vs lại 1 điều mà mình k thích ở thẻ visa acb đó là mình có thấy thẻ visa acb của mẹ mình các con số vs chữ trên thẻ bị nhạt và mất số   thành thử ra phải ghi vào giấy or lấy bút ghi đè lên    nhiều lân đi chơi   thanh toán qua thẻ   nhân viên thanh toán người ta còn k nhìn thấy được cả số seri trên thẻ nữa   
+sub Cách thức
+sub âu 3: phải thấp que diêm trc ..
+sub Chux ad sn zui ze hehe
+sub  Là sao ta là phải làm thể visa SEABANK xong  đóng tiền bao nhiu trước nữa hok
+sub Mình có 1 thắc mắc: Miễn lãi là của Mobifone hay là miễn lãi của thẻ Visa. Nếu miễn lãi thẻ Visa 24%/ năm thì tốt quá.
+sub Cho mình ứng tuyển vị trí CRO cá nhân nhé :)))
+sub SeABank cũng qc fb à?
+sub  tình hình hợp tác rùi có khi xin chỉ dịnh Mer Andu cho cau giay dc khog a nhi
+sub Chúc mừng 2 TP và CN CG  chúc chú Truong Hoang Ha Long sớm có thằng cu lớn lên cho vào làm tại CN CG cho đủ bộ :))
+sub ban Thao meo bg chuyen sang sea bank roi a  nguong mo ghe
+sub MS. Uyen Phuong nhận phần thưởng gì thế??? Share đi chị ơi.
+sub Sinh nhật chị à??? Mà TFD VCB mới mở trang này hả chị  thi thoảng có gì khó  để em lên đây em hỏi nhé. 
+sub  Ko gui tien ma muon tang qua duoc ko Piny U? Hihi
+sub Nghe thi "ngon an" vay thoi cac bac oi.gio ngan hang no choi bai lai suat tha noi do .chi duoc vai ba thang dau thoi sau do tinh = lai suat tran 13 thang +%bien do (theo thoi diem) kho nhai lam ah
+sub Thông tin nghe hấp dẫn quá a Tran Minh Quang  ko biết ls có cố định đến khi thanh lý HĐ hay điều chỉnh thường xuyên ?:))
+sub  Xem danh sách các dự án tại đây là ở đâu Ad ơi
+sub Dùm thẻ của Vietcombank là +I149:I172được hả
+sub Anh chị ơi! em đang muốn triển khai "I LOVE GP.Bank" không biết có ai có ý tưởng gì không ạ? em dự định làm ảnh tập thể GP.Bank Đông Đô mình  tiện thể em muốn làm một Clip về anh chị em Gp.Bank Đông Đô mình luôn! mọi người cho em ý kiến với !!!!
+sub Đ/c Trần Mạnh Chung cho tôi hỏi  nếu SGD -THD và Hà Thành bắt tay nhau hoà với tỷ số 8-8 thì NCT phải ghi bao nhiêu bàn mới vào đc?
+sub húc mừng GP TL HQV
+sub Ồ  nv của vietinbank mà cười nhạo các sp mới của vietinbank sao? Hay quá =))  chắc nv này cũng chỉ là ''hình thức'' thôi
+sub vậy sao trên web vietinbank lại có 2 mục riêng biệt ipay và thanh toán trực tuyến  cách đăng ký và mẫu đơn cũng khác nhau nữa?
+sub ad ơi  thủ tục cấp lại thẻ ntn.thẻ bị gãy và hơn 1 năm không sử dụng rùi.
+sub Sao vừa rồi mình gửi tk online kỳ hạn 1 tháng chỉ đc có 5.1%/ năm nhỉ. Trc đấy tính cả ưu đãi là 5.4% mà

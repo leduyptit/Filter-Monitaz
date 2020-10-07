@@ -1,0 +1,311 @@
+﻿thủ tục quá ổn
+nợ xấu thấp
+phí chuyển khoản thấp
+PGD chuẩn
+phòng  chuẩn
+làm thẻ nhanh
+nợ xấu cao
+phí chuyển khoản cao
+phí chuyển khoản đắt
+tính lãi ác quá
+lãi xuất vay kinh quá
+vay cao quá
+cắt cổ
+nợ xấu siêu khủng
+cho vay cao quá
+lãi xuất cho vay kinh quá
+xử lý  nhanh
+vắng tanh
+vẫn bị trừ tiền
+trừ tiền trong tài khoản
+trừ tiền oan
+trừ tiền mà không báo trước
+trừ tiền mà ko báo trước
+trừ tiền mà k báo trước
+trừ tiền
+thu thẻ
+thu phí cao hơn
+thẻ bị khoá
+tạm ngừng phục vụ
+tài khoản bị đóng
+tk bị đóng
+suốt ngày đơ
+suốt ngày đạt giải này giải nọ
+sự cố với thẻ
+sai lệch tiền
+rút tiền tại quầy mất phí
+rút tiền không được
+rút tiền ko được
+rút tiền k được
+rủ nhau tăng
+rất vắng
+phòng  vắng tanh
+pgd vắng tanh
+phòng  rất vắng
+pgd rất vắng
+phiền vì ngân hàng
+phiền vì NH
+phân chia dịch vụ không rõ
+phân chia dịch vụ ko rõ
+phân chia dịch vụ k rõ
+phòng  vẫn khóa
+pgd vẫn khoá
+phòng  đóng cửa
+pgd vẫn đóng cửa
+nuốt tiền
+nuốt thẻ
+nhiều  đình trệ
+né trả lời
+né trl
+mức phí quá cao
+máy không trả thẻ
+máy atm hết tiền
+mất tiền trong tài khoản
+mất tiền trong tk
+lỗ hổng thông tin
+lỗ hổng ttin
+lỗ hổng bảo mật
+lại thu phí
+lạc giữa ma trận phí
+không thấy nhấc máy
+k thấy nhấc máy
+ko thấy nhấc máy
+không rút tiền được
+k rút tiền được
+ko rút tiền được
+không rút được tiền
+k rút được tiền
+ko rút được tiền
+không nối mạng
+k nối mạng
+ko nối mạng
+không nhét được thẻ
+ko nhét được thẻ
+k nhét được thẻ
+không nhấc máy
+k nhấc máy
+ko nhấc máy
+không nhả tiền
+k nhả tiền
+ko nhả tiền
+không  được
+k  được
+ko  được
+khoản phát sinh
+khoá thẻ
+hệ thống bị lỗi
+hành vi của bảo vệ
+/không thực hiện được
+k thực hiện được
+ko thực hiện được
+không thành công
+k thành công
+ko thành công
+gd k thành công
+gd ko thành công
+gd không thành công
+cũng bị thu phí
+giải ngân chậm
+giá dịch vụ tăng
+gánh nhiều phí
+đẻ ra đủ thứ
+đẻ ra đủ các thứ
+đăng nhập mãi không được
+đăng nhập mãi k được
+đăng nhập mãi ko được
+đăng đi đăng lại bao nhiêu lần
+đăng đi đăng lại bn lần
+cuỗm thông tin khách hàng
+cuỗm thông tin KH
+cuỗm ttin khách hàng
+cuỗm ttin KH
+cũng thu phí
+cùng ngân hàng sao lại thu phí
+cùng NH sao lại thu phí
+cùng ngân hàng cũng thu phí
+cùng NH cũng thu phí
+cùng ngân hàng cũng bị thu phí
+cùng NH cũng bị thu phí
+cứ thu phí
+chưa nhận được tiền
+chưa nhận dc tiền
+chưa làm lại được
+chưa làm lại dc
+chịu nhiều phí
+chậm giải ngân
+cái gì cũng tính phí
+bị thu phí mà ko hề được thông báo
+bị thu phí mà ko hề dc thông báo
+bị thu phí mà k hề dc thông báo
+bị thu phí mà không được thông báo
+bị thu phí mà k hề được thông báo
+bị thu phí
+báo sai suốt
+bảo mật NH còn nhiều lỏng lẻo 
+bảo mật ngân hàng còn nhiều lỏng lẻo 
+atm lỗi
+ATM không trả thẻ
+ATM ko trả thẻ
+ATM k trả thẻ
+ATM không chịu nhả tiền
+ATM ko chịu nhả tiền
+ATM k chịu nhả tiền
+ATM gặp sự cố
+ATM dở chứng
+âm thầm tăng
+không cho nhận tiền mặt
+k cho nhận tiền mặt
+ko cho nhận tiền mặt
+chịu hàng loạt phí
+phải mua
+bị ép mua
+bắt buộc phải mua
+bất đồng về
+phí hoa hồng
+không cho vay
+ko cho vay
+k cho vay
+thủ tục vay rườm rà
+kéo dài vài năm
+làm lâu
+không cho chúng tôi vay
+k cho chúng tôi vay
+ko cho chúng tôi vay
+không rút được
+k rút được
+ko rút được
+không cung cấp đầy đủ thông tin
+ko cung cấp đầy đủ ttin
+k cung cấp đầy đủ ttin
+cũng chát
+mặt nhăn như khỉ
+mặt cũng nhăn như khỉ
+dịch vụ lởm
+dvu lởm
+thu nhiều phí nhất
+lởm lắm
+ức hiếp nông thôn
+láo xược
+hãm lắm
+bóp nghẹt
+bố láo
+chảnh chó
+tệ hại
+vô học
+tởm nhất
+củ chuối
+khốn nạn
+kìm hãm
+tệ kinh khủng
+tệ hại
+ngân hàng con ông cháu cha
+chửi thề
+cán bộ hầu tòa
+tuồn tiền ra ngoài
+nghe chửi
+biển thủ
+gây khó dễ
+éo hiểu
+đéo hiểu
+buối gì
+buối dì
+/tụt hậu
+oai như cóc
+ngân hàng củ chuối
+ngân hàng của cocc
+rất là chảnh
+Nhân viên thân thiện
+nv thân thiện
+nhân viên nhiệt tình
+nv nhiệt tình
+nhân viên chu đáo
+nv chu đáo
+nhân viên niềm nở
+nv niềm nở
+nhân viên tận tình
+nv tận tình
+thủ tục lằng nhằng
+thủ tục rắc rối
+đại án
+không nhất quán
+lợi dụng chức vụ
+thất thoát hàng ngàn tỷ
+bị khởi tố
+khởi tố
+càng ngày càng chán
+đừng vay mượn ngân hàng
+đừng vay mượn mấy ông ngân hàng
+nhân viên hách dịch
+bj khoa the
+the khong ton tai
+k đc tính lãi
+vụ án
+trái luật
+bị lừa
+trái pháp luật
+cưỡng chế
+chừa cái NH
+chừa cái ngân hàng
+chịu khoản phí
+nhiều thứ phí
+tăng phí dịch vụ
+tăng phí dv
+không ra tiền
+bị trừ tiền trong thẻ
+không nhận thẻ
+đăng nhập không thành công
+không được giải ngân
+không vay được
+bắt buộc phải
+bán thông tin
+lừa thông tin
+phá hoại
+thất thoát dữ liệu
+mất dữ liệu
+lấy tiền
+trộm tiền
+bận liên tục
+gọi không được
+không gọi được
+không hỗ trợ
+k hỗ trợ
+ko hỗ trợ
+không giải quyết
+k giải quyết
+ko giải quyết
+lỗi giao diện
+dịch vụ kém
+dv kém
+dich vu kem
+dịch vụ tệ
+k ra tiền
+k nhận thẻ
+không thành công
+k được giải ngân
+k vay được
+k gọi được
+k hỗ trợ
+lừa đảo
+lua dao
+lừa gạt
+/phá sản
+hoạt động yếu kém
+khách hàng hoang mang
+nguy hiểm
+nguy hiem
+chán quá
+rất hài lòng
+rất tin tưởng
+rat tin tuong
+thực sự yên tâm
+không ổn định
+lợi dụng triệt để
+thiệt hại
+không phản hồi
+bi lua
+/khiếu nại
+khẩn cấp
+trái phép
+/cáo buộc
+chiếm đoạt
+fuck
